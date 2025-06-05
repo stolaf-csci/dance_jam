@@ -1,1 +1,86 @@
-testing
+---
+title: "Getting Started with Runestone"
+---
+
+
+For this course, we will be using an online interactive textbook called _Foundations of Python Programming_, which is available through a platform called Runestone Academy. These instructions will walk you through the process of setting up an account, using the textbook, and accessing reading assignments.
+
+# **Creating a Runestone Account**
+
+First, go to [https://runestone.academy](https://runestone.academy). This is the main landing page for Runestone Academy. Once there, the page should look similar to the image below:
+
+![Runestone home screen](images/homescreen.png)
+
+Click the **Sign Up** button in the upper left. This takes you to a form like the one below:
+
+![Runestone registration](images/registration.png)
+
+A few notes while creating your account:
+
+- Runestone Academy is external to St. Olaf and may use your usage data for academic research. Their [Privacy Policy](https://runestone.academy) is available at the bottom of the page.
+- You do **not** need to use your real name or St. Olaf email address. However, if you use different info, please email Prof. Mandery ([mander1@stolaf.edu](mailto:mander1@stolaf.edu)) with your Runestone name/email so your progress can be tracked.
+- Do **not** reuse your St. Olaf password. Use a unique one. A password manager or memorized unique passwords for important accounts is recommended.
+- The course name is **stolaf_spring2025** (type this manually).
+- Check the box to agree to privacy/terms.
+- Do **not** check the box to create a course.
+
+After clicking **Sign Up**, you may be asked to make a donation:
+
+![Runestone donation](images/support_runestone.png)
+
+Donating is optional and doesn’t affect access or features. Click “Sorry, not Today” if you’d like to skip.
+
+After that, you'll be taken directly to the textbook:
+
+![Textbook landing](images/textbook.PNG)
+
+Note: The projects listed at the end of the textbook are **not** your course projects. You are welcome to explore them, but your actual projects are separate.
+
+---
+
+# **Accessing Reading Assignments**
+
+To access assignments:
+
+1. Log into Runestone.
+2. Click the person icon (top right), then choose **Assignments**:
+
+![Accessing assignments](images/ra1.PNG)
+
+You’ll see a list like this (not all assignments will appear at once):
+
+![Assignment list](images/ra2.png)
+
+Click on the assignment you want. For example:
+
+![Assignment example](images/ra3.png)
+
+Each assignment has multiple pages. To begin, click the first link (e.g., “General Introduction/1.1 Introduction: The Way of the Program”). This will take you to a reading page:
+
+![Reading page](images/ra4.png)
+
+Read the page, watch videos, complete exercises. When done, you'll see a green “Completed. Well Done!” message. For text-only pages, click **Mark as Completed**.
+
+Navigate using **Continue to page ...** to follow the assignment sequence.
+
+Some pages include interactive exercises:
+
+![Interactive exercise](images/interactive_exercise.png)
+
+Try to complete these to the best of your ability. There’s no limit on attempts. You don't need perfect answers, but you must make a serious effort. Ask for help if needed.
+
+Return to the assignment landing page to track progress. Green check marks indicate pages you’ve completed. Use the **Compute Score for Assignment** button to update your progress.
+
+You can also use the **In Progress** and **Finished** buttons to help track your status:
+
+![Progress tools](images/ra6.png)  
+![More progress tracking](images/ra7.png)
+
+These buttons are just for you—grading is based on actual activity before the due date.
+
+After clicking **Compute Score**, your completion % will update. Individual sections also show scores:
+
+![Score tracking](images/ra8.png)
+
+# ⚠ Note:
+Some textbook sections are still being developed. Occasionally, a completed section may not be recorded. As explained in the syllabus, assignments are graded on a **2-point scale**, and anything **>80% completion** will receive full credit.
