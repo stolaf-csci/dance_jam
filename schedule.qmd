@@ -1,15 +1,47 @@
 ---
-title: "Schedule"
+title: "Spring 2025 Schedule"
 ---
 
-Example schedule:
-
-|     |                Morning              |          Afternoon                     |
-|:---:|:-----------------------------------:|:--------------------------------------:|
-|  L  | Intro + Data manipulation           | git / GitHub                           |
-|  M  | Generalised Linear Models           | Data visualisation                     |
-|  X  | Mixed models / GAM / Bayes          | Functional programming + Students work |
-|  J  | Multivariate analyses               | Reproducible workflows                 |
-|  V  | Using R as GIS + Students work      | Project presentations                  |
-
-
+| Week | Topic                       | Weekday   | Date       | Lecture                                                        | Assignments (due at midnight) |
+|:------:|:-----------------------------:|:-----------:|:------------:|:----------------------------------------------------------------:|:-------------------------------:|
+| 1    | First Day                   | Friday    | 2/7        | Welcome + Programming IRL                                      |                               |
+| 2    | IO: Input and Output        | Monday    | 2/10       | IO1: Inside Computers, Algorithms, print()                     | RR1, About Me quiz            |
+| 2    | IO: Input and Output        | Wednesday | 2/12       | IO2: Variables, Operators, Data Types, input()                 |                               |
+| 2    | IO: Input and Output        | Friday    | 2/14       | IO3: IDLE, Writing Programs, Debugging                         | HW1                           |
+| 3    | T: Turtles                  | Monday    | 2/17       | T1: Modules, turtle.Turtle()                                   | RR2                           |
+| 3    | T: Turtles                  | Wednesday | 2/19       | T2: Turtle Methods                                             | Project 1                     |
+| 3    | T: Turtles                  | Friday    | 2/21       | T3: class Terminology, range(), Strings                        | HW2                           |
+| 4    | FOR: Sequences + Iteration  | Monday    | 2/24       | SEQ1: String Slicing and Methods                               | RR3                           |
+| 4    | FOR: Sequences + Iteration  | Wednesday | 2/26       | SEQ2: Lists; Quiz1 (IO+T)                                      | Project 2                     |
+| 4    | FOR: Sequences + Iteration  | Friday    | 2/28       | FOR1: Iteration + Loops, Rewrite Instructions                  | HW3                           |
+| 5    | FOR: Sequences + Iteration  | Monday    | 3/3        | FOR3: Accumulator Pattern, Quiz1 rewrites due                  | RR4                           |
+| 5    | IF: Conditionals            | Wednesday | 3/5        | IF1: Conditionals                                              | Project 3 (Th)                |
+| 5    | IM: Images                  | Friday    | 3/7        | IM1: Images                                                    | HW4                           |
+| 6    | IM: Images                  | Monday    | 3/10       | IM2: Transforming Images                                       | RR5                           |
+| 6    | IM: Images                  | Wednesday | 3/12       | IM3: Image Practice, Quiz2 (FOR, IF)                           | HW5, Project 4 (Th)           |
+| 6    | FN: Functions               | Friday    | 3/14       | FN1: Functions                                                 | RR6 (Sun)                     |
+| 7    | FN: Functions               | Monday    | 3/17       | FN2: Functions, Quiz2 rewrites due                             |                               |
+| 7    | FN: Functions               | Wednesday | 3/19       | FN3: Functions                                                 | HW6                           |
+| 7    | LST: Transforming Sequences | Friday    | 3/21       | SEQ3: Transforming                                             | Project 5                     |
+| 8    | LST: Transforming Sequences | Monday    | 3/24       | SEQ4: Transforming                                             | RR7                           |
+| 8    | LST: Transforming Sequences | Wednesday | 3/26       | SEQ5: Transforming, Quiz3 (IM, FN)                             | HW7                           |
+| 8    | FI: Files                   | Friday    | 3/28       | FI1: Files                                                     | RR8                           |
+| 9    |                             |           | 3/29 - 4/6 | Spring Break                                                   |                               |
+| 10   | FI: Files                   | Monday    | 4/7        | FI2: Writing, Quiz3 rewrites due                               |                               |
+| 10   | FI: Files                   | Wednesday | 4/9        | FI3: csvs                                                      | HW8, Project 6 (Th)           |
+| 10   | Exam 1                      | Friday    | 4/11       | CH1 and Retakes (IO, T, FOR, IF, IM, FN)                       |                               |
+| 11   | DCT: Dictionaries           | Monday    | 4/14       | DCT1: Dictionaries                                             | RR9                           |
+| 11   | DCT: Dictionaries           | Wednesday | 4/26       | DCT2: Dictionaries, Exam1 rewrites due                         |                               |
+| 11   | DCT: Dictionaries           | Friday    | 4/18       | DCT3: Dictionaries Practice, Quiz4 (LST, FI)                   | Project 7                     |
+| 12   | REC: Recursion              | Monday    | 4/21       | REC1: Recursion                                                | HW9                           |
+| 12   | REC: Recursion              | Wednesday | 4/23       | REC2: Recursion Practice, Quiz4 rewrites due                   | RR10 (Th)                     |
+| 12   | WH: While Loop              | Friday    | 4/25       | WH1: While Loops                                               | Project 8                     |
+| 13   | WH: While Loop              | Monday    | 4/28       | WH2: Flow Control                                              | HW10 (Tu)                     |
+| 13   | CLS: Classes                | Wednesday | 4/30       | CLS1: Classes, Quiz5 (DCT, REC)                                | RR11 (Th)                     |
+| 13   | CLS: Classes                | Friday    | 5/2        | CLS2: Classes                                                  |                               |
+| 14   | CLS: Classes                | Monday    | 5/5        | CLS3: Classes Practice, Quiz 6 (WH, CLS)                       | Project 9                     |
+| 14   | CLS: Classes                | Wednesday | 5/7        | Workday: Quiz 6 rewrites due, Exam2 study, Project 10 worktime | HW11                          |
+| 14   | Exam2                       | Friday    | 5/9        | CH2 + Retakes (LST, FI, DCT, REC, WH, CLS)                     |                               |
+| 15   | Last Day                    | Monday    | 5/12       | Game Day + Prize Raffle                                        | Project 10                    |
+| 15   | Finals                      | Thursday  | 5/15       | Redo any standards                                             |                               |
+| 15   | Finals                      | Saturday  | 5/17       | Redo any standards                                             |                               |

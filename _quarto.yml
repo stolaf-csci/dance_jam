@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Course Title"
+  title: "Introduction to Programming"
   sidebar:
     background: primary
     # logo: "images/logo.png"
@@ -11,7 +11,7 @@ website:
     align: center
     tools:
       - icon: github
-        href: https://github.com/chefs-kiss/quarto-course-website-template
+        href: https://github.com/chefs-kiss/intro2CS
         text: GitHub
     style: docked
     contents:
@@ -21,8 +21,6 @@ website:
         text: Schedule
       - href: materials.qmd
         text: Materials
-      - href: https://github.com/chefs-kiss/quarto-course-website-template/discussions
-        text: Forum
 
 format:
   html:

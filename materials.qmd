@@ -2,7 +2,9 @@
 title: "Course Materials"
 ---
 
-[Datasets](data/)
-
 [Slides](slides/)
+
+[Standards](standards/)
+
+[Projects](projects/)
 
