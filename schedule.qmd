@@ -4,9 +4,9 @@ title: "Spring 2025 Schedule"
 
 | Week | Topic                       | Weekday   | Date       | Lecture                                                        | Assignments (due at midnight) |
 |:------:|:-----------------------------:|:-----------:|:------------:|:----------------------------------------------------------------:|:-------------------------------:|
-| 1    | First Day                   | Friday    | 2/7        | Welcome + Programming IRL                                      |                               |
-| 2    | IO: Input and Output        | Monday    | 2/10       | IO1: Inside Computers, Algorithms, print()                     | RR1, About Me quiz            |
-| 2    | IO: Input and Output        | Wednesday | 2/12       | IO2: Variables, Operators, Data Types, input()                 |                               |
+| 1    | First Day                   | Friday    | 2/7        | Welcome + [Programming IRL](0_proj_irl.pdf)                                      |                               |
+| 2    | IO: Input and Output        | Monday    | 2/10       | IO1: [Becoming a Computer](1_computer.pdf)                   | RR1, About Me quiz            |
+| 2    | IO: Input and Output        | Wednesday | 2/12       | IO2: [Variables and Data Types](2_variables.pdf])                |                               |
 | 2    | IO: Input and Output        | Friday    | 2/14       | IO3: IDLE, Writing Programs, Debugging                         | HW1                           |
 | 3    | T: Turtles                  | Monday    | 2/17       | T1: Modules, turtle.Turtle()                                   | RR2                           |
 | 3    | T: Turtles                  | Wednesday | 2/19       | T2: Turtle Methods                                             | Project 1                     |
