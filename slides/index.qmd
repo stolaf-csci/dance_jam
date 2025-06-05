@@ -4,6 +4,6 @@ title: "Slide Decks"
 
 # Available Decks
 
-- [Day 0: Programming IRL](0_proj_irl.pptx)
-- [Day 1: Becoming a Computer](1_computer.pptx)
-- [Day 2: Variables and Data Types](2_variables.pptx)
+- [Day 0: Programming IRL](0_proj_irl.pdf)
+- [Day 1: Becoming a Computer](1_computer.pdf)
+- [Day 2: Variables and Data Types](2_variables.pdf)
