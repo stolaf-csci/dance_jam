@@ -1,5 +1,30 @@
 ---
-title: "Course Title"
+title: "Introduction to Programming with Python"
 ---
 
-Course info & details here
+121 : MWF 11:50 -12:45 in TOH 210
+125 : MWF 12:55 - 1:50 in TOH 210
+
+Mission: This is a welcoming, inclusive, encouraging, and failure-tolerant class.
+
+Instructor: Kim Mandery E-mail: mander1@stolaf.edu
+
+Office: RMS 309 Office Hours: W 3-4, Th 12:30-2:30, F 3-4
+
+Teaching Assistants: Drop-in TA help sessions hours and location will be posted on Moodle. The TAs are
+here to help guide you through the problem solving process, but are not responsible for giving exact answers
+to homework.
+
+Textbook: The textbook for this course is an online interactive textbook, available for free through [Runestone Academy](https://runestone.academy)
+
+Course Description: This course introduces the perspectives and methods of computer science. Students learn to develop algorithms, which are step-by-step procedures for accomplishing a task. Students
+translate these algorithms into a programming language, utilizing common programming structures. The
+structures covered include variables, functions, loops, control flow, basic data structures, classes, and a brief
+introduction to object-oriented programming.
+
+Course Objectives:
+• To understand key concepts and abstractions involved in programming.
+• To be able to write simple computer programs.
+• To better understand how computers work.
+• To develop knowledge and skills that will allow the student to use computers to solve novel problems
+throughout life.
