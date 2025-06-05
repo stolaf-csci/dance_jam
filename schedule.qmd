@@ -4,7 +4,7 @@ title: "Spring 2025 Schedule"
 
 | Week | Topic                       | Weekday   | Date       | Lecture                                                        | Assignments (due at midnight) |
 |:------:|:-----------------------------:|:-----------:|:------------:|:----------------------------------------------------------------:|:-------------------------------:|
-| 1    | First Day                   | Friday    | 2/7        | Welcome + Programming IRL                                      |                               |
+| 1    | First Day                   | Friday    | 2/7        | Welcome + [Programming IRL](slides/Day0_Programming IRL.pptx)                                      |                               |
 | 2    | IO: Input and Output        | Monday    | 2/10       | IO1: Inside Computers, Algorithms, print()                     | RR1, About Me quiz            |
 | 2    | IO: Input and Output        | Wednesday | 2/12       | IO2: Variables, Operators, Data Types, input()                 |                               |
 | 2    | IO: Input and Output        | Friday    | 2/14       | IO3: IDLE, Writing Programs, Debugging                         | HW1                           |
