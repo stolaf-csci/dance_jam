@@ -21,6 +21,8 @@ website:
         text: Schedule
       - href: materials.qmd
         text: Materials
+      - href: Runestone/runestone.qmd
+        text: Getting Started with Runestone
 
 format:
   html:
