@@ -7,9 +7,9 @@ title: "Introduction to Programming with Python"
 
 *Mission*: This is a welcoming, inclusive, encouraging, and failure-tolerant class.
 
-*Instructor*: Kim Mandery E-mail: mander1@stolaf.edu
+*Instructor*: Kim Mandery       *E-mail*: mander1@stolaf.edu
 
-*Office*: RMS 309 Office Hours: W 3-4, Th 12:30-2:30, F 3-4
+*Office*: RMS 309       *Office Hours*: W 3-4, Th 12:30-2:30, F 3-4
 
 *Teaching Assistants*: Drop-in TA help sessions hours and location will be posted on Moodle. The TAs are
 here to help guide you through the problem solving process, but are not responsible for giving exact answers
