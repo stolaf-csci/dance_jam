@@ -23,8 +23,8 @@ structures covered include variables, functions, loops, control flow, basic data
 introduction to object-oriented programming.
 
 *Course Objectives*:
-• To understand key concepts and abstractions involved in programming.
-• To be able to write simple computer programs.
-• To better understand how computers work.
-• To develop knowledge and skills that will allow the student to use computers to solve novel problems
+- To understand key concepts and abstractions involved in programming.
+- To be able to write simple computer programs.
+- To better understand how computers work.
+- To develop knowledge and skills that will allow the student to use computers to solve novel problems
 throughout life.
