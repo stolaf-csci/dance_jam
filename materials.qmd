@@ -4,7 +4,7 @@ title: "Course Materials"
 
 [Slides](slides/)
 
-[Standards](standards/)
+[Standards]
 
-[Projects](projects/)
+[Projects]
 
