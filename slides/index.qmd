@@ -20,6 +20,6 @@ title: "Slide Decks"
 - FOR1
 - FOR2
 
-#IF: Conditionals
+# IF: Conditionals
 -IF1
 
