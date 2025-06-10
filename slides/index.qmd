@@ -1,25 +1,25 @@
 ---
 title: "Slide Decks"
 ---
-# Welcome
+## Welcome
 - [IRL](IRL.pdf)
 
-# IO: Input and Output
+## IO: Input and Output
 - [IO1](IO1.pdf)
 - [IO2](IO2.pdf)
 - IO3
 
-# T: Turtle
+## T: Turtle
 - T1
 - T2
 - T3
 
-# FOR: Sequences + Iteration
+## FOR: Sequences + Iteration
 - SEQ1
 - SEQ2
 - FOR1
 - FOR2
 
-# IF: Conditionals
+## IF: Conditionals
 -IF1
 
