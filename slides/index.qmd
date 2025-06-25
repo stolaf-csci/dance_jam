@@ -6,9 +6,7 @@ title: "Slide Decks"
 
 ## IO: Input and Output
 - [IO1](IO1.pdf) & [workbook](/workbooks/1_algorithms.html)
-<iframe src="https://nbviewer.org/github/chefs-kiss/cs1_spring2025/blob/main/workbooks/1_algorithms.ipynb"
-        width="100%" height="600">
-</iframe>
+
 - [IO2](IO2.pdf) & [workbook](/workbooks/2_variables.html)
 - IO3
 
