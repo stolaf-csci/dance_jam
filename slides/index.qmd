@@ -5,8 +5,8 @@ title: "Slide Decks"
 - [IRL](IRL.pdf)
 
 ## IO: Input and Output
-- [IO1](IO1.pdf) & [workbook](/content/1_algorithms.html)
-- [IO2](IO2.pdf) & [workbook](/content/2_variables.html)
+- [IO1](IO1.pdf) & [workbook](/workbooks/1_algorithms.html)
+- [IO2](IO2.pdf) & [workbook](/workbooks/2_variables.html)
 - IO3
 
 ## T: Turtle
