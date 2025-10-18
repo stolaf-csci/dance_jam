@@ -1,14 +1,14 @@
 ---
-title: "Dance Jam 2025 Schedule"
+title: "Dance Jam 2026 Schedule"
 ---
 
 | Phase              | Weekday  | Date           | Description                           | Deliverables / Deadlines               | Notes                     |
 | :------------------: | :--------: | :--------------: | :-------------------------------------: | :--------------------------------------: | :-------------------------: |
 | Dance Study Phase  |         | Aug – Dec 2025 | Preparation & Research (ongoing)      |                                       | Selecting dancers to learn the basic movements of the chosen style |
-| Registration Open  | Friday   | 2/7/2025       | Registration Opens                    | Fill out the [form](registration.qmd) |                           |
-| Registration Close | Sunday   | 3/2/2025       | Registration Closes                   | Last day to register                   |                           |
-| [Kickoff Weekend](kickoff.qmd)    | Saturday | 3/15/2025      | Competition Kickoff                  |       | Intro & workshops         |
-|                    | Sunday   | 3/16/2025      | Kickoff Workshops & Team Formation    |   Draft Video Submission                                     |                           |
-| [Refinement Weekend](refinement.qmd) | Saturday | 4/19/2025      | Model Refinement Workshos        |     | Feedback sessions         |
-|                    | Sunday   | 4/20/2025      | Q&A and Troubleshooting               |  Final Video Submission                                       |                           |
-| [Showcase Event](showcase.qmd)     | Friday   | 5/9/2025       | Showcase  |     | Celebration & networking  |
+| Registration Open  | Friday   | 2/7/2026       | Registration Opens                    | Fill out the [form](registration.qmd) |                           |
+| Registration Close | Sunday   | 3/2/2026       | Registration Closes                   | Last day to register                   |                           |
+| [Kickoff Weekend](kickoff.qmd)    | Saturday | 3/15/2026      | Competition Kickoff                  |       | Intro & workshops         |
+|                    | Sunday   | 3/16/2026      | Kickoff Workshops & Team Formation    |   Draft Video Submission                                     |                           |
+| [Refinement Weekend](refinement.qmd) | Saturday | 4/19/2026      | Model Refinement Workshos        |     | Feedback sessions         |
+|                    | Sunday   | 4/20/2026      | Q&A and Troubleshooting               |  Final Video Submission                                       |                           |
+| [Showcase Event](showcase.qmd)     | Friday   | 5/9/2026       | Showcase  |     | Celebration & networking  |
