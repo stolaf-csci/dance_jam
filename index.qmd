@@ -1,30 +1,31 @@
 ---
-title: "Introduction to Programming with Python"
+title: "Dance Jam 2025"
 ---
 
-121 : MWF 11:50 -12:45 in TOH 210 </br>
-125 : MWF 12:55 - 1:50 in TOH 210
 
-*Mission*: This is a welcoming, inclusive, encouraging, and failure-tolerant class.
+# Where Algorithms Meet Artistry
 
-*Instructor*: Kim Mandery       *E-mail*: mander1@stolaf.edu
+Dancers and coders will team up to create **a choreographed algorithm**.
 
-*Office*: RMS 309       *Office Hours*: W 3-4, Th 12:30-2:30, F 3-4
+_“Choreographed what??”_  
+You heard us!
 
-*Teaching Assistants*: Drop-in TA help sessions hours and location will be posted on Moodle. The TAs are
-here to help guide you through the problem solving process, but are not responsible for giving exact answers
-to homework.
+Inspired by the folk‑dance videos produced at Sapientia University in Transylvania (Romania), where traditional Hungarian, Romanian and Saxon folk‑dance styles were used to illustrate sorting algorithms like [bubble‑sort](https://www.youtube.com/watch?v=lyZQPjUT5B4) and [select-sort](https://www.youtube.com/watch?v=Ns4TPTC8whw). 
+Our jam invites students to create their own original dance that embodies the structure, logic and flow of a chosen algorithm.
 
-*Textbook*: The textbook for this course is an online interactive textbook, available for free through [Runestone Academy](https://runestone.academy)
+This event is all about **creativity**, **collaboration**, and **iteration** 
 
-*Course Description*: This course introduces the perspectives and methods of computer science. Students learn to develop algorithms, which are step-by-step procedures for accomplishing a task. Students
-translate these algorithms into a programming language, utilizing common programming structures. The
-structures covered include variables, functions, loops, control flow, basic data structures, classes, and a brief
-introduction to object-oriented programming.
+## How It Works
 
-*Course Objectives*:
-- To understand key concepts and abstractions involved in programming.
-- To be able to write simple computer programs.
-- To better understand how computers work.
-- To develop knowledge and skills that will allow the student to use computers to solve novel problems
-throughout life.
+### Weekend One — Kickoff & Creation
+Cross‑disciplinary teams of dancers and programmers come together to concept and choreograph an algorithm. The goal: **to choreograph an algorithm** that expresses a computational idea or solves a problem through movement. Coders and dancers collaborate side‑by‑side, mapping code logic to movement and rhythm, exploring how loops, swaps, partitions or recursion might translate into steps, patterns and formations.
+
+### Weekend Two — Refinement & Rehearsal
+Teams return for a focused weekend of debugging their movement logic, strengthening structure and clarifying concepts through rehearsal, feedback and iteration. As in programming, you’ll test, revise and polish until the routine becomes and algorithm come to life through dance.
+
+### Showcase Event
+The culmination of months of creative synergy, where each group performs their dance algorithm live. Celebrate the fusion of STEM and art, innovation and expression, logic and emotion.
+
+## Why Participate?
+
+The Dance Jam is an immersive experience that breaks down silos between disciplines. Whether you’re a dancer curious about algorithms or this jam is your chance to collaborate, experiment and build something completely unexpected. Break down barriers between disciplines. 

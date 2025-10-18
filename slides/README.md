@@ -1,1 +1,0 @@
-Drop spot for PPT slides

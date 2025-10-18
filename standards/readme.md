@@ -1,1 +1,0 @@
-Click on standards to view objectives and practice problems. See schedule for when standards will be assessed.

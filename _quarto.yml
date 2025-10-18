@@ -19,10 +19,10 @@ website:
         text: Home
       - href: schedule.qmd
         text: Schedule
-      - href: materials.qmd
-        text: Materials
-      - href: Runestone/runestone.qmd
-        text: Getting Started with Runestone
+      - href: Dance/background.qmd
+        text: Dance Background
+      - href: Algorithms/background.qmd
+        text: Algorithms Background
 
 format:
   html:
