@@ -6,3 +6,4 @@
 docs
 
 **/*.quarto_ipynb
+quarto-linux-amd64.deb
