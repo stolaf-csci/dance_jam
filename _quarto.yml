@@ -33,6 +33,8 @@ website:
           text: Refinement Weekend
         - href: showcase.qmd
           text: Showcase
+        - href: discord.qmd
+          text: Join the Discord
     - section: "Background"
       contents:
         - href: dance.qmd

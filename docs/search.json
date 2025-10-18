@@ -118,5 +118,16 @@
       "About",
       "People"
     ]
+  },
+  {
+    "objectID": "discord.html",
+    "href": "discord.html",
+    "title": "Dance Jam 2026",
+    "section": "",
+    "text": "Click here to join the conversation over on Discord\nAdd how to join, general overview of the server.",
+    "crumbs": [
+      "Event Information",
+      "Join the Discord"
+    ]
   }
 ]
