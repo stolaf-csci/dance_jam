@@ -1,9 +1,0 @@
----
-title: "Weekend Events"
----
-
-[Kickoff Weekend](kickoff.qmd)
-
-[Refinement Weekend](refinement.qmd)
-
-[Showcase](showcase.qmd)

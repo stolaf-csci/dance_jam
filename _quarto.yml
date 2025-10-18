@@ -17,6 +17,8 @@ website:
     contents:
       - href: index.qmd
         text: Home
+      - href: registration.qmd
+        text: Registration
       - href: schedule.qmd
         text: Schedule
       - href: kickoff.qmd
@@ -25,7 +27,7 @@ website:
         text: Refinement Weekend
       - href: showcase.qmd
         text: Showcase
-      - href: Dance/background.qmd
+      - href: dance.qmd
         text: Dance Background
       - href: Algorithms/background.qmd
         text: Algorithms Background
