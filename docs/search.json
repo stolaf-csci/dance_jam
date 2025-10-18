@@ -4,7 +4,7 @@
     "href": "schedule.html",
     "title": "Dance Jam 2025 Schedule",
     "section": "",
-    "text": "Phase\nWeekday\nDate\nDescription\nDeliverables / Deadlines\nNotes\n\n\n\n\nDance Study Phase\n—\nAug – Dec 2025\nPreparation & Research (ongoing)\n—\nEntire Fall 2025 semester\n\n\nRegistration Open\nFriday\n2/7/2025\nRegistration Opens\nParticipants must register by deadline\n\n\n\nRegistration Close\nSunday\n3/2/2025\nRegistration Closes\nLast day to register\n\n\n\nKickoff Weekend\nSaturday\n3/15/2025\nCompetition Kickoff & Dataset Release\nInitial Submission Deadline (TBD)\nIntro & workshops\n\n\n\nSunday\n3/16/2025\nKickoff Workshops & Team Formation\n\n\n\n\nRefinement Weekend\nSaturday\n4/19/2025\nModel Refinement & Advanced Workshops\nMid-Competition Submission Deadline\nFeedback sessions\n\n\n\nSunday\n4/20/2025\nQ&A and Troubleshooting\n\n\n\n\nShowcase Event\nFriday\n5/9/2025\nFinal Presentation & Awards Ceremony\nFinal Submission Deadline (by 5/8)\nCelebration & networking",
+    "text": "Phase\nWeekday\nDate\nDescription\nDeliverables / Deadlines\nNotes\n\n\n\n\nDance Study Phase\n\nAug – Dec 2025\nPreparation & Research (ongoing)\n\nSelecting dancers to learn the basic movements of the chosen style\n\n\nRegistration Open\nFriday\n2/7/2025\nRegistration Opens\nFill out the form here\n\n\n\nRegistration Close\nSunday\n3/2/2025\nRegistration Closes\nLast day to register\n\n\n\nKickoff Weekend\nSaturday\n3/15/2025\nCompetition Kickoff\n\nIntro & workshops\n\n\n\nSunday\n3/16/2025\nKickoff Workshops & Team Formation\nDraft Video Submission\n\n\n\nRefinement Weekend\nSaturday\n4/19/2025\nModel Refinement Workshos\n\nFeedback sessions\n\n\n\nSunday\n4/20/2025\nQ&A and Troubleshooting\nFinal Video Submission\n\n\n\nShowcase Event\nFriday\n5/9/2025\nShowcase\n\nCelebration & networking",
     "crumbs": [
       "Schedule"
     ]
@@ -37,6 +37,16 @@
     "text": "The Dance Jam is an immersive experience that breaks down silos between disciplines. Whether you’re a dancer curious about algorithms or this jam is your chance to collaborate, experiment and build something completely unexpected. Break down barriers between disciplines.",
     "crumbs": [
       "Home"
+    ]
+  },
+  {
+    "objectID": "weekend_events.html",
+    "href": "weekend_events.html",
+    "title": "Weekend Events",
+    "section": "",
+    "text": "Kickoff Weekend\nRefinement Weekend\nShowcase",
+    "crumbs": [
+      "Weekend Events"
     ]
   }
 ]

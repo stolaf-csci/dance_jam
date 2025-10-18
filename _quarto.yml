@@ -19,6 +19,12 @@ website:
         text: Home
       - href: schedule.qmd
         text: Schedule
+      - href: kickoff.qmd
+        text: Kickoff Weekend
+      - href: refinement.qmd
+        text: Refinement Weekend
+      - href: showcase.qmd
+        text: Showcase
       - href: Dance/background.qmd
         text: Dance Background
       - href: Algorithms/background.qmd
