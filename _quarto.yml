@@ -35,12 +35,12 @@ website:
           text: Showcase
         - href: discord.qmd
           text: Join the Discord
-    - section: "Background"
+    - section: "Resources"
       contents:
         - href: dance.qmd
-          text: Dance Background
-        - href: Algorithms/background.qmd
-          text: Algorithms Background
+          text: Dance
+        - href: algorithms.qmd
+          text: Algorithms
 
 format:
   html:
