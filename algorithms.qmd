@@ -1,0 +1,5 @@
+---
+title: "Algorithms"
+---
+
+Provides information on algorithms along with resources for animation.

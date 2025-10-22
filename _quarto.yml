@@ -41,6 +41,8 @@ website:
           text: Dance
         - href: algorithms.qmd
           text: Algorithms
+        - href: inspiration.qmd
+          text: Inspiration
 
 format:
   html:

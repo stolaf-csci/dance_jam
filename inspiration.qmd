@@ -1,0 +1,5 @@
+
+
+[Synchronous Objects](https://synchronousobjects.osu.edu/) contains examples of using technology 
+to add context to a choreography. The Dance Interface (Object 1) and Cue Annotations (Object 3)
+examples can provide inspiration for the animations.
