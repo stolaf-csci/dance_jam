@@ -1,13 +1,13 @@
 [
   {
-    "objectID": "schedule.html",
-    "href": "schedule.html",
-    "title": "Dance Jam 2026 Schedule",
+    "objectID": "showcase.html",
+    "href": "showcase.html",
+    "title": "Showcase Event",
     "section": "",
-    "text": "Phase\nWeekday\nDate\nDescription\nDeliverables / Deadlines\nNotes\n\n\n\n\nDance Study Phase\n\nAug – Dec 2025\nPreparation & Research (ongoing)\n\nSelecting dancers to learn the basic movements of the chosen style\n\n\nRegistration Open\nFriday\n2/7/2026\nRegistration Opens\nFill out the form\n\n\n\nRegistration Close\nSunday\n3/2/2026\nRegistration Closes\nLast day to register\n\n\n\nKickoff Weekend\nSaturday\n3/15/2026\nCompetition Kickoff\n\nIntro & workshops\n\n\n\nSunday\n3/16/2026\nKickoff Workshops & Team Formation\nDraft Video Submission\n\n\n\nRefinement Weekend\nSaturday\n4/19/2026\nModel Refinement Workshos\n\nFeedback sessions\n\n\n\nSunday\n4/20/2026\nQ&A and Troubleshooting\nFinal Video Submission\n\n\n\nShowcase Event\nFriday\n5/9/2026\nShowcase\n\nCelebration & networking",
+    "text": "Placeholder for the showcase information Add in the dates! Prizes??",
     "crumbs": [
-      "About",
-      "Schedule"
+      "Event Information",
+      "Showcase"
     ]
   },
   {
@@ -22,25 +22,47 @@
     ]
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "People",
+    "objectID": "inspiration.html",
+    "href": "inspiration.html",
+    "title": "Dance Jam 2026",
     "section": "",
-    "text": "This event is proudly hosted by the following faculty members:\nProf. Andrea Conger (she/her)      email  Department of Dance  Questions about choreography, dance techniques, event logistics, studio space\nProf. Will Leeson (he/him)      email  Department of Computer Science  Questions about algorithms, technology requests\nProf. Kim Mandery (she/her)      mander1  Department of Computer Science  Questions about algorithms, registration, website content",
+    "text": "Synchronous Objects contains examples of using technology to add context to a choreography. The Dance Interface (Object 1) and Cue Annotations (Object 3) examples can provide inspiration for the animations.",
     "crumbs": [
-      "About",
-      "People"
+      "Resources",
+      "Inspiration"
     ]
   },
   {
-    "objectID": "contact.html#questions",
-    "href": "contact.html#questions",
-    "title": "People",
-    "section": "Questions?",
-    "text": "Questions?\nFeel free to reach out to the hosts with any questions related to:\n\nHow to get started with the Dance Jam\n\nTechnical or coding challenges during the weekend events\n\nIdeas and collaboration tips\n\nScheduling and event logistics\n\nResources for both computer science and dance disciplines\n\nAny other questions or concerns you have!\n\nWe’re here to support your creativity and collaboration every step of the way.",
+    "objectID": "registration.html",
+    "href": "registration.html",
+    "title": "How to Register",
+    "section": "",
+    "text": "Placeholder for the registration information Create Google form? What questions should be asked? Do we have t-shirts, prizes? Will lunch be provided?",
     "crumbs": [
       "About",
-      "People"
+      "Registration"
+    ]
+  },
+  {
+    "objectID": "refinement.html",
+    "href": "refinement.html",
+    "title": "Refinement Weekend",
+    "section": "",
+    "text": "Placeholder for the kickoff weekend information Add in the dates!",
+    "crumbs": [
+      "Event Information",
+      "Refinement Weekend"
+    ]
+  },
+  {
+    "objectID": "algorithms.html",
+    "href": "algorithms.html",
+    "title": "Algorithms",
+    "section": "",
+    "text": "Provides information on algorithms along with resources for animation.\nExample of Bubble Sort animation  manim video of bubble sort  The purpose of the video is to sort the bars from shortest to longest. The algorithm starts at the beginning and checks each bar with it’s neighbor by outlining in orange. If the bars are not in the correct order, the bars swap spots. Otherwise, it moves to the next set of neighbors. Eventually if the bar is in it’s correct position, it will be outlined in bright green. This continues until every bar is in the correct order and correct position.",
+    "crumbs": [
+      "Resources",
+      "Algorithms"
     ]
   },
   {
@@ -77,25 +99,36 @@
     ]
   },
   {
-    "objectID": "inspiration.html",
-    "href": "inspiration.html",
-    "title": "Dance Jam 2026",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "People",
     "section": "",
-    "text": "Synchronous Objects contains examples of using technology to add context to a choreography. The Dance Interface (Object 1) and Cue Annotations (Object 3) examples can provide inspiration for the animations.",
+    "text": "This event is proudly hosted by the following faculty members:\nProf. Andrea Conger (she/her)      email  Department of Dance  Questions about choreography, dance techniques, event logistics, studio space\nProf. Will Leeson (he/him)      email  Department of Computer Science  Questions about algorithms, technology requests\nProf. Kim Mandery (she/her)      mander1  Department of Computer Science  Questions about algorithms, registration, website content",
     "crumbs": [
-      "Resources",
-      "Inspiration"
+      "About",
+      "People"
     ]
   },
   {
-    "objectID": "registration.html",
-    "href": "registration.html",
-    "title": "How to Register",
-    "section": "",
-    "text": "Placeholder for the registration information Create Google form? What questions should be asked? Do we have t-shirts, prizes? Will lunch be provided?",
+    "objectID": "contact.html#questions",
+    "href": "contact.html#questions",
+    "title": "People",
+    "section": "Questions?",
+    "text": "Questions?\nFeel free to reach out to the hosts with any questions related to:\n\nHow to get started with the Dance Jam\n\nTechnical or coding challenges during the weekend events\n\nIdeas and collaboration tips\n\nScheduling and event logistics\n\nResources for both computer science and dance disciplines\n\nAny other questions or concerns you have!\n\nWe’re here to support your creativity and collaboration every step of the way.",
     "crumbs": [
       "About",
-      "Registration"
+      "People"
+    ]
+  },
+  {
+    "objectID": "kickoff.html",
+    "href": "kickoff.html",
+    "title": "Kickoff Weekend",
+    "section": "",
+    "text": "Placeholder for the kickoff weekend information",
+    "crumbs": [
+      "Event Information",
+      "Kickoff Weekend"
     ]
   },
   {
@@ -110,47 +143,14 @@
     ]
   },
   {
-    "objectID": "refinement.html",
-    "href": "refinement.html",
-    "title": "Refinement Weekend",
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Dance Jam 2026 Schedule",
     "section": "",
-    "text": "Placeholder for the kickoff weekend information Add in the dates!",
+    "text": "Phase\nWeekday\nDate\nDescription\nDeliverables / Deadlines\nNotes\n\n\n\n\nDance Study Phase\n\nAug – Dec 2025\nPreparation & Research (ongoing)\n\nSelecting dancers to learn the basic movements of the chosen style\n\n\nRegistration Open\nFriday\n2/7/2026\nRegistration Opens\nFill out the form\n\n\n\nRegistration Close\nSunday\n3/2/2026\nRegistration Closes\nLast day to register\n\n\n\nKickoff Weekend\nSaturday\n3/15/2026\nCompetition Kickoff\n\nIntro & workshops\n\n\n\nSunday\n3/16/2026\nKickoff Workshops & Team Formation\nDraft Video Submission\n\n\n\nRefinement Weekend\nSaturday\n4/19/2026\nModel Refinement Workshos\n\nFeedback sessions\n\n\n\nSunday\n4/20/2026\nQ&A and Troubleshooting\nFinal Video Submission\n\n\n\nShowcase Event\nFriday\n5/9/2026\nShowcase\n\nCelebration & networking",
     "crumbs": [
-      "Event Information",
-      "Refinement Weekend"
-    ]
-  },
-  {
-    "objectID": "algorithms.html",
-    "href": "algorithms.html",
-    "title": "Algorithms",
-    "section": "",
-    "text": "Provides information on algorithms along with resources for animation.",
-    "crumbs": [
-      "Resources",
-      "Algorithms"
-    ]
-  },
-  {
-    "objectID": "showcase.html",
-    "href": "showcase.html",
-    "title": "Showcase Event",
-    "section": "",
-    "text": "Placeholder for the showcase information Add in the dates! Prizes??",
-    "crumbs": [
-      "Event Information",
-      "Showcase"
-    ]
-  },
-  {
-    "objectID": "kickoff.html",
-    "href": "kickoff.html",
-    "title": "Kickoff Weekend",
-    "section": "",
-    "text": "Placeholder for the kickoff weekend information",
-    "crumbs": [
-      "Event Information",
-      "Kickoff Weekend"
+      "About",
+      "Schedule"
     ]
   }
 ]

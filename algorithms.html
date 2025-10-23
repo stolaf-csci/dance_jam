@@ -39,7 +39,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-21091f856a3ab108927e8b72c559db9a.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-c8ee433604b3e4c86981822377eb9bec.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -237,6 +237,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p>Provides information on algorithms along with resources for animation.</p>
+<p>Example of Bubble Sort animation <br> <video src="files/BubbleSort.mp4" class="img-fluid" controls=""><a href="files/BubbleSort.mp4">manim video of bubble sort</a></video> <br> The purpose of the video is to sort the bars from shortest to longest. The algorithm starts at the beginning and checks each bar with it’s neighbor by outlining in orange. If the bars are not in the correct order, the bars swap spots. Otherwise, it moves to the next set of neighbors. Eventually if the bar is in it’s correct position, it will be outlined in bright green. This continues until every bar is in the correct order and correct position.</p>
 
 
 
@@ -314,7 +315,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/stolaf-csci\.github\.io\/dance_jam\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
