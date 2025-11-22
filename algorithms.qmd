@@ -13,3 +13,5 @@ Otherwise, it moves to the next set of neighbors.
 This continues until every bar is in the correct order and correct position.
 
 There are a plethora of resources out there to visualize sorting algorithms. Here is another [example](https://visualgo.net/en/sorting).
+
+You can also read about some common [graph algorithms](https://runestone.academy/ns/books/published/cppds/Graphs/toctree.html?mode=browsing)
