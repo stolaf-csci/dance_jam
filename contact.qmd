@@ -3,20 +3,36 @@
 
 This event is proudly hosted by the following faculty members:
 
-**Prof. Andrea Conger**  (she/her) &nbsp;&nbsp;&nbsp;&nbsp; *email* <br>
+::: {.columns}
+
+::: {.column width="30%"}
+![](files/andrea_icon.jpeg){width=256px}
+**Prof. Andrea Conger** (she/her)  <br>
 Department of Dance <br>
-_Questions about choreography, dance techniques, event logistics, studio space_
+ *email* <br>
+Questions about choreography, dance techniques, event logistics, studio space
+:::
 
-**Prof. Will Leeson**  (he/him) &nbsp;&nbsp;&nbsp;&nbsp; *email* <br>
-Department of Computer Science <br>
- _Questions about algorithms, technology requests_
+::: {.column width="30%"}
+![](files/will_icon.jpeg){width=256px}
+**Prof. Will Leeson** (he/him) <br>
+Department of Computer Science  <br>
+*email*  <br>
+Questions about algorithms
+:::
 
-**Prof. Kim Mandery**  (she/her) &nbsp;&nbsp;&nbsp;&nbsp; *mander1* <br>
-Department of Computer Science <br>
-_Questions about algorithms, registration, website content_
+::: {.column width="30%"}
+![](files/kim_icon.jpg){width=256px}
+**Prof. Kim Mnadery** (she/her) <br>
+Department of Computer Science  <br>
+*email* <br>
+Questions about algorithms, registration, website content
+:::
 
+:::
 
-**note: pic icons?**
+<small>Artwork from the Bulgarian Folk Encaustic Paintings collection of Flame Art Studios</small>
+
 
 ## Questions?
 
