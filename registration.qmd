@@ -13,6 +13,4 @@ Do we have t-shirts, prizes?
 Will lunch be provided?
 
 
-<object data="files/DanceJam_poster3-21-22.pdf" type="application/pdf" width="100%" height="100%">
-    <p>Unable to display PDF file. <a href="files/DanceJam_poster3-21-22.pdf">Download</a> instead.</p>
-</object>
+![](files/dancejam_poster.png){width=100%}
