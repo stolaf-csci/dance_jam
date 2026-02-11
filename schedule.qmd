@@ -1,5 +1,6 @@
 ![](files/full_block_header.png){width=100%}
 
+
 | Phase              | Weekday  | Date           | Description                           | Deliverables               | Notes                     |
 | :------------------: | :--------: | :--------------: | :-------------------------------------: | :--------------------------------------: | :-------------------------: |
 | Dance Study Phase  |         | Aug – Dec 2025 | Preparation & Research      |                                       | Selecting dancers to learn the basic movements of the chosen style |
