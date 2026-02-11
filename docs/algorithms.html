@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.25">
+<meta name="generator" content="quarto-1.8.27">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Algorithms – Dance Jam 2026</title>
+<title>algorithms – Dance Jam 2026</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -36,10 +36,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-21091f856a3ab108927e8b72c559db9a.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-819c78dac4bb5f12276fcceebb6c39c1.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -95,10 +95,9 @@ ul.task-list li input[type="checkbox"] {
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
     <div class="pt-lg-2 mt-2 text-center sidebar-header">
       <a href="./index.html" class="sidebar-logo-link">
+      <img src="./files/128_icon.png" alt="" class="sidebar-logo light-content py-0 d-lg-inline d-none">
+      <img src="./files/128_icon.png" alt="" class="sidebar-logo dark-content py-0 d-lg-inline d-none">
       </a>
-      <div class="sidebar-tools-main">
-    <a href="https://github.com/stolaf-csci/dance_jam" title="GitHub" class="quarto-navigation-tool px-1" aria-label="GitHub"><i class="bi bi-github"></i></a>
-</div>
       </div>
         <div class="mt-2 flex-shrink-0 align-items-center">
         <div class="sidebar-search">
@@ -154,13 +153,13 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./kickoff.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Kickoff Weekend</span></a>
+ <span class="menu-text">Jam Weekend</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./refinement.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Refinement Weekend</span></a>
+ <span class="menu-text">Refinement</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -211,36 +210,252 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#what-even-is-an-algorithm" id="toc-what-even-is-an-algorithm" class="nav-link active" data-scroll-target="#what-even-is-an-algorithm">What Even is an Algorithm?</a>
+  <ul class="collapse">
+  <li><a href="#key-features-of-algorithms" id="toc-key-features-of-algorithms" class="nav-link" data-scroll-target="#key-features-of-algorithms">Key Features of Algorithms</a></li>
+  <li><a href="#why-algorithms-matter" id="toc-why-algorithms-matter" class="nav-link" data-scroll-target="#why-algorithms-matter">Why Algorithms Matter</a></li>
+  </ul></li>
+  <li><a href="#types-of-algorithms-to-consider" id="toc-types-of-algorithms-to-consider" class="nav-link" data-scroll-target="#types-of-algorithms-to-consider">Types of Algorithms to Consider</a>
+  <ul class="collapse">
+  <li><a href="#sorting-algorithms" id="toc-sorting-algorithms" class="nav-link" data-scroll-target="#sorting-algorithms">Sorting algorithms</a></li>
+  <li><a href="#graph-algorithms" id="toc-graph-algorithms" class="nav-link" data-scroll-target="#graph-algorithms">Graph algorithms</a></li>
+  <li><a href="#generating-algorithms" id="toc-generating-algorithms" class="nav-link" data-scroll-target="#generating-algorithms">Generating algorithms</a></li>
+  </ul></li>
+  <li><a href="#sorting-algorithm-example" id="toc-sorting-algorithm-example" class="nav-link" data-scroll-target="#sorting-algorithm-example">Sorting Algorithm Example</a>
+  <ul class="collapse">
+  <li><a href="#bubble-sort-in-pseudocode" id="toc-bubble-sort-in-pseudocode" class="nav-link" data-scroll-target="#bubble-sort-in-pseudocode">Bubble Sort in Pseudocode</a></li>
+  <li><a href="#step-by-step-explanation-of-bubble-sort" id="toc-step-by-step-explanation-of-bubble-sort" class="nav-link" data-scroll-target="#step-by-step-explanation-of-bubble-sort">Step-by-Step Explanation of Bubble Sort</a></li>
+  </ul></li>
+  <li><a href="#sequence-generating-algorithm-example" id="toc-sequence-generating-algorithm-example" class="nav-link" data-scroll-target="#sequence-generating-algorithm-example">Sequence Generating Algorithm Example</a>
+  <ul class="collapse">
+  <li><a href="#building-blocks" id="toc-building-blocks" class="nav-link" data-scroll-target="#building-blocks">Building Blocks</a></li>
+  <li><a href="#likelihoods" id="toc-likelihoods" class="nav-link" data-scroll-target="#likelihoods">Likelihoods</a></li>
+  <li><a href="#the-juice-what-we-call-style" id="toc-the-juice-what-we-call-style" class="nav-link" data-scroll-target="#the-juice-what-we-call-style">The “Juice” (what we call style)</a></li>
+  </ul></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./dance.html">Resources</a></li><li class="breadcrumb-item"><a href="./algorithms.html">Algorithms</a></li></ol></nav></header>
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./dance.html">Resources</a></li><li class="breadcrumb-item"><a href="./algorithms.html">Algorithms</a></li></ol></nav>
-<div class="quarto-title">
-<h1 class="title">Algorithms</h1>
+
+
+
+<p><img src="files/tworow_header.png" class="img-fluid" style="width:100.0%"></p>
+<section id="what-even-is-an-algorithm" class="level2">
+<h2 class="anchored" data-anchor-id="what-even-is-an-algorithm">What Even is an Algorithm?</h2>
+<p>An <strong>algorithm</strong> is just a <strong>set of clear instructions</strong> that tell you how to accomplish a particular task. If you’ve ever followed a recipe or built IKEA furniture, you’ve used an algorithm before!</p>
+<p>Some algorithms are very simple, moving step by step in a straight line. Others are a bit more complex, looping or branching like twists and turns in a dance. The key is that they always have a purpose and a goal.</p>
+<hr>
+<section id="key-features-of-algorithms" class="level3">
+<h3 class="anchored" data-anchor-id="key-features-of-algorithms">Key Features of Algorithms</h3>
+<ul>
+<li><p><strong>The Steps:</strong><br>
+Every algorithm has specific steps. Skipping a step is like missing a move in a dance, and the combination of steps is what makes each algorithm unique.</p></li>
+<li><p><strong>The Flow:</strong><br>
+Some algorithms go straight from start to finish. Others repeat certain steps (loops) or make choices along the way (branches), just like different formations in a dance.</p></li>
+<li><p><strong>The Goal:</strong><br>
+The aim of an algorithm is to get a reliable method for doing a particular task. Some algorithms are better at doing particular tasks. Figuring out which one to use when is part of what makes programming an art</p></li>
+</ul>
+<hr>
+</section>
+<section id="why-algorithms-matter" class="level3">
+<h3 class="anchored" data-anchor-id="why-algorithms-matter">Why Algorithms Matter</h3>
+<p>Algorithms are all around us. They decide:</p>
+<ul>
+<li>What shows up in your social media feed<br>
+</li>
+<li>How a GPS finds the fastest route<br>
+</li>
+<li>How search engines rank pages<br>
+</li>
+<li>How a game decides what happens next</li>
+</ul>
+<hr>
+<p><img src="files/singlerow_header.png" class="img-fluid" style="width:100.0%"></p>
+</section>
+</section>
+<section id="types-of-algorithms-to-consider" class="level2">
+<h2 class="anchored" data-anchor-id="types-of-algorithms-to-consider">Types of Algorithms to Consider</h2>
+<section id="sorting-algorithms" class="level3">
+<h3 class="anchored" data-anchor-id="sorting-algorithms">Sorting algorithms</h3>
+<p>These are used with information stored in a “line” (commonly called an <strong>array</strong>). Sorting algorithms decide how to organize items in a particular order, such as ascending or descending, until a desired condition is met. Sorting is a foundational concept in computer science and appears in many real-world applications like ranking scores, arranging names alphabetically, or organizing files.</p>
+<section id="sorting-examples" class="level4">
+<h4 class="anchored" data-anchor-id="sorting-examples">Sorting Examples</h4>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Bubble_sort">Bubble Sort</a> – repeatedly swaps adjacent items if they are in the wrong order.<br>
+</li>
+<li><a href="https://en.wikipedia.org/wiki/Merge_sort">Merge Sort</a> – divides the list into smaller pieces, sorts them, and merges them back together.<br>
+</li>
+<li><a href="https://en.wikipedia.org/wiki/Quicksort">Quick Sort</a> – picks a pivot element and partitions the list into smaller and larger elements recursively.</li>
+</ul>
+</section>
+</section>
+<section id="graph-algorithms" class="level3">
+<h3 class="anchored" data-anchor-id="graph-algorithms">Graph algorithms</h3>
+<p>These are used with information stored in a <strong>graph</strong>, which is a set of nodes (points) connected by edges (lines). Graph algorithms are used to find paths, optimize routes, or discover relationships between nodes. This is helpful in GPS navigation, network analysis, social media connections, and more.</p>
+<section id="graph-examples" class="level4">
+<h4 class="anchored" data-anchor-id="graph-examples">Graph Examples</h4>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm">Dijkstra’s Algorithm</a> – finds the shortest path between nodes in a weighted graph.<br>
+</li>
+<li><a href="https://en.wikipedia.org/wiki/A*_search_algorithm">A* Search</a> – finds the most efficient route using heuristics to guide the search.<br>
+</li>
+<li><a href="https://en.wikipedia.org/wiki/Depth-first_search">Depth-First Search (DFS)</a> – explores as far as possible along each branch before backtracking.<br>
+</li>
+<li><a href="https://en.wikipedia.org/wiki/Breadth-first_search">Breadth-First Search (BFS)</a> – explores all neighbors level by level, useful for finding shortest paths in unweighted graphs.</li>
+<li>Click here to read more about <a href="https://runestone.academy/ns/books/published/cppds/Graphs/toctree.html?mode=browsing">graph algorithms</a></li>
+</ul>
+</section>
+</section>
+<section id="generating-algorithms" class="level3">
+<h3 class="anchored" data-anchor-id="generating-algorithms">Generating algorithms</h3>
+<p>These are used with information stored in a line or sequence (often text) where the order matters. Sequence generators predict the next item in a series based on previous items. This is widely used in text prediction, music composition, and procedural generation of content.</p>
+<section id="generating-examples" class="level4">
+<h4 class="anchored" data-anchor-id="generating-examples">Generating Examples</h4>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Markov_chain">Markov Chains</a> – generates sequences where the next item depends only on the current item or state. Great for generating new dance moves, music notes, or text sequences.<br>
+</li>
+<li><a href="https://en.wikipedia.org/wiki/N-gram">N-grams</a> – looks at sequences of n items to predict the next item, capturing patterns from previous n-1 steps. Useful for generating coherent sequences in text, music, or choreography.<br>
+</li>
+<li><a href="https://en.wikipedia.org/wiki/De_Bruijn_sequence">de Bruijn sequences</a> – generates sequences that cover all possible combinations of a set of elements exactly once. Useful in puzzles, coding theory, and sequence testing.</li>
+</ul>
+<p><img src="files/singlerow_header.png" class="img-fluid" style="width:100.0%"></p>
+</section>
+</section>
+</section>
+<section id="sorting-algorithm-example" class="level2">
+<h2 class="anchored" data-anchor-id="sorting-algorithm-example">Sorting Algorithm Example</h2>
+<p>Let’s take a peek at the Bubble Sort algorithm. Bubble Sort is a simple algorithm that repeatedly steps through a list, compares adjacent items, and swaps them if they are in the wrong order. Think of each comparison as a “dance move” and each swap as changing of positions of the dancers in the choreography.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><video src="files/BubbleSort.mp4" class="img-fluid" controls=""><a href="files/BubbleSort.mp4">Video</a></video></p>
+<figcaption>manim video of bubble sort</figcaption>
+</figure>
 </div>
-
-
-
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
-
-
-</header>
-
-
-<p>Provides information on algorithms along with resources for animation.</p>
-<p>Example of Bubble Sort animation <br> <video src="files/BubbleSort.mp4" class="img-fluid" controls=""><a href="files/BubbleSort.mp4">manim video of bubble sort</a></video> <br> The purpose of the video is to sort the bars from shortest to longest. The algorithm starts at the beginning and checks each bar with it’s neighbor by outlining in orange. If the bars are not in the correct order, the bars swap spots. Otherwise, it moves to the next set of neighbors. This continues until every bar is in the correct order and correct position.</p>
+<p>The algorithm starts at the beginning and checks each bar with it’s neighbor by outlining in orange. If the bars are not in the correct order, the bars swap spots. Otherwise, it moves to the next set of neighbors. This continues until every bar is in the correct order and correct position.</p>
+<section id="bubble-sort-in-pseudocode" class="level3">
+<h3 class="anchored" data-anchor-id="bubble-sort-in-pseudocode">Bubble Sort in Pseudocode</h3>
+<p>Below is what we call pseudocode which is a formal way to document the procedure of steps taken.</p>
+<pre class="text"><code>procedure BubbleSort(A)
+    n = length(A)
+    for i from 1 to n-1 do
+        for j from 0 to n-i-1 do
+            if A[j] &gt; A[j+1] then
+                swap A[j] and A[j+1]
+            end if
+        end for
+    end for
+end procedure</code></pre>
+</section>
+<section id="step-by-step-explanation-of-bubble-sort" class="level3">
+<h3 class="anchored" data-anchor-id="step-by-step-explanation-of-bubble-sort">Step-by-Step Explanation of Bubble Sort</h3>
+<ul>
+<li><p><strong>Outer loop (<code>i</code>)</strong>: The line <code>for i from 1 to n-1 do</code> goes through the entire list multiple times. Each pass ensures that the largest unsorted item “bubbles up” to its correct position at the end of the list.</p></li>
+<li><p><strong>Inner loop (<code>j</code>)</strong>: The line <code>for j from 0 to n-i-1 do</code> moves through the unsorted portion of the list. It compares each item with its immediate neighbor on the right.</p></li>
+<li><p><strong>Swap step</strong>: The line <code>swap A[j] and A[j+1]</code> checks if the two neighboring items are in the wrong order. If they are, it exchanges them, moving the larger value toward the end of the list.</p></li>
+<li><p><strong>Repeat</strong>: This process repeats for all passes until no swaps are needed, meaning all elements are sorted.</p></li>
+</ul>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><code>n-i-1</code> ensures that the inner loop does not compare elements that are already sorted at the end.<br>
+</li>
+<li>Each pass of the outer loop guarantees that at least one element is placed in its final position.<br>
+</li>
+<li>Bubble Sort is simple but not very efficient for large lists (mainly used for teaching and small data).</li>
+</ul>
+</div>
+</div>
 <p>There are a plethora of resources out there to visualize sorting algorithms. Here is another <a href="https://visualgo.net/en/sorting">example</a>.</p>
+<p><img src="files/singlerow_header.png" class="img-fluid" style="width:100.0%"></p>
+</section>
+</section>
+<section id="sequence-generating-algorithm-example" class="level2">
+<h2 class="anchored" data-anchor-id="sequence-generating-algorithm-example">Sequence Generating Algorithm Example</h2>
+<p>Let’s start with building blocks: <code>A</code> , <code>B</code>, and <code>BA</code></p>
+<p>For each building block we can assign <strong>probabilities</strong> for which block follows which:</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Current Move</th>
+<th>Next Move Options</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>A</td>
+<td>B (70%), BA (30%)</td>
+</tr>
+<tr class="even">
+<td>B</td>
+<td>A (50%), BA (50%)</td>
+</tr>
+<tr class="odd">
+<td>BA</td>
+<td>A (100%)</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Example Sequence Generation:</strong></p>
+<ul>
+<li>Start with A.<br>
+</li>
+<li>Randomly pick the next move according to probabilities:<br>
+</li>
+<li>70% chance → B<br>
+</li>
+<li>30% chance → BA<br>
+</li>
+<li>Repeat</li>
+</ul>
+<p>A possible sequence generated could be something like: <code>A → B → BA → A → B → A → BA' or</code>ABBAABABA`. Between each arrow you can also decide to add in some transition steps. There are many ways to take this process to generate specific styles of dance.</p>
+<section id="building-blocks" class="level3">
+<h3 class="anchored" data-anchor-id="building-blocks">Building Blocks</h3>
+<p>To configure these to a particular style, you can decide what building blocks constitute a move. For example, you might include simple blocks like A or B, or more complex subsequences such as AB or BAF. Each block can represent a step, a pose, or a short combination of movements.</p>
+</section>
+<section id="likelihoods" class="level3">
+<h3 class="anchored" data-anchor-id="likelihoods">Likelihoods</h3>
+<p>You can also define how likely it is to move from one subsequence to another by adjusting the probabilities. For example:</p>
+<ul>
+<li>From A you might have a 70% chance to go to B and a 30% chance to go to AB.<br>
+</li>
+<li>From B, you might allow a 50% chance to repeat B or a 50% chance to go to BA.</li>
+</ul>
+</section>
+<section id="the-juice-what-we-call-style" class="level3">
+<h3 class="anchored" data-anchor-id="the-juice-what-we-call-style">The “Juice” (what we call style)</h3>
+<p>Beyond simple transitions, you can add more sophisticated rules to create a richer choreography style:</p>
+<ul>
+<li>Stops or pauses: Certain subsequences might require a deliberate stop or hold before continuing.<br>
+</li>
+<li>Loops: You can decide how many times a sequence can repeat before moving on, preventing the routine from getting stuck in the same pattern.<br>
+</li>
+<li>Constraints on combinations: Perhaps some subsequences cannot follow certain others, or some must always appear after another block.<br>
+</li>
+<li>Weighted variation: You can increase variety by making rare transitions possible but unlikely, giving the dance unpredictability while keeping it stylistically consistent.<br>
+</li>
+<li>Dynamic probabilities: You could even change the probabilities over time—for instance, start with simple moves and gradually favor more complex subsequences as the sequence progresses.</li>
+</ul>
+<p>In short, the list goes on. By tuning the building blocks, probabilities, and rules, you can create choreography that feels both structured and expressive, while still being generated automatically by the algorithm. This approach lets you capture the style of a dance, text, or music pattern and produce new, coherent sequences that match that style.</p>
+<p><img src="files/tworow_header.png" class="img-fluid" style="width:100.0%"></p>
 
 
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

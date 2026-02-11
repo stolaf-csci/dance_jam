@@ -2,9 +2,9 @@
   {
     "objectID": "schedule.html",
     "href": "schedule.html",
-    "title": "Dance Jam 2026 Schedule",
+    "title": "Dance Jam 2026",
     "section": "",
-    "text": "Phase\nWeekday\nDate\nDescription\nDeliverables / Deadlines\nNotes\n\n\n\n\nDance Study Phase\n\nAug – Dec 2025\nPreparation & Research (ongoing)\n\nSelecting dancers to learn the basic movements of the chosen style\n\n\nRegistration Open\nFriday\n2/7/2026\nRegistration Opens\nFill out the form\n\n\n\nRegistration Close\nSunday\n3/2/2026\nRegistration Closes\nLast day to register\n\n\n\nKickoff Weekend\nSaturday\n3/15/2026\nCompetition Kickoff\n\nIntro & workshops\n\n\n\nSunday\n3/16/2026\nKickoff Workshops & Team Formation\nDraft Video Submission\n\n\n\nRefinement Weekend\nSaturday\n4/19/2026\nModel Refinement Workshos\n\nFeedback sessions\n\n\n\nSunday\n4/20/2026\nQ&A and Troubleshooting\nFinal Video Submission\n\n\n\nShowcase Event\nFriday\n5/9/2026\nShowcase\n\nCelebration & networking",
+    "text": "Phase\nWeekday\nDate\nDescription\nDeliverables\nNotes\n\n\n\n\nDance Study Phase\n\nAug – Dec 2025\nPreparation & Research\n\nSelecting dancers to learn the basic movements of the chosen style\n\n\nRegistration Open\nFriday\n2/27/2026\nRegistration Opens\nFill out the form\n\n\n\nRegistration Close\nSunday\n3/15/2026\nRegistration Closes\nLast day to register\n\n\n\nKickoff Weekend\nSaturday\n3/21/2026\nJam Kickoff\n\nIntro & workshops\n\n\n\nSunday\n3/22/2026\nKickoff Workshops & Team Worktime\nDraft Choreography Submission\n\n\n\nRefinement\n\n3/23 - 4/24\nRefinement and Fine Tuning\n\nFeedback sessions\n\n\nShowcase Event\nFriday\n5/9/2026\nShowcase\nFinal Choreography Submission\nCelebration & networking",
     "crumbs": [
       "About",
       "Schedule"
@@ -24,9 +24,9 @@
   {
     "objectID": "contact.html",
     "href": "contact.html",
-    "title": "People",
+    "title": "Dance Jam 2026",
     "section": "",
-    "text": "This event is proudly hosted by the following faculty members:\nProf. Andrea Conger (she/her)      email  Department of Dance  Questions about choreography, dance techniques, event logistics, studio space\nProf. Will Leeson (he/him)      email  Department of Computer Science  Questions about algorithms, technology requests\nProf. Kim Mandery (she/her)      mander1  Department of Computer Science  Questions about algorithms, registration, website content",
+    "text": "This event is proudly hosted by the following faculty members:\nProf. Andrea Conger (she/her)      email  Department of Dance  Questions about choreography, dance techniques, event logistics, studio space\nProf. Will Leeson (he/him)      email  Department of Computer Science  Questions about algorithms, technology requests\nProf. Kim Mandery (she/her)      mander1  Department of Computer Science  Questions about algorithms, registration, website content\nnote: pic icons?",
     "crumbs": [
       "About",
       "People"
@@ -35,7 +35,7 @@
   {
     "objectID": "contact.html#questions",
     "href": "contact.html#questions",
-    "title": "People",
+    "title": "Dance Jam 2026",
     "section": "Questions?",
     "text": "Questions?\nFeel free to reach out to the hosts with any questions related to:\n\nHow to get started with the Dance Jam\n\nTechnical or coding challenges during the weekend events\n\nIdeas and collaboration tips\n\nScheduling and event logistics\n\nResources for both computer science and dance disciplines\n\nAny other questions or concerns you have!\n\nWe’re here to support your creativity and collaboration every step of the way.",
     "crumbs": [
@@ -57,9 +57,9 @@
   {
     "objectID": "index.html#how-it-works",
     "href": "index.html#how-it-works",
-    "title": "Dance Jam 2026",
-    "section": "",
-    "text": "Cross‑disciplinary teams of dancers and programmers come together to concept and choreograph an algorithm. The goal: to choreograph an algorithm that expresses a computational idea or solves a problem through movement. Coders and dancers collaborate side‑by‑side, mapping code logic to movement and rhythm, exploring how loops, swaps, partitions or recursion might translate into steps, patterns and formations.\n\n\n\nTeams return for a focused weekend of debugging their movement logic, strengthening structure and clarifying concepts through rehearsal, feedback and iteration. As in programming, you’ll test, revise and polish until the routine becomes and algorithm come to life through dance.\n\n\n\nThe culmination of months of creative synergy, where each group performs their dance algorithm live. Celebrate the fusion of STEM and art, innovation and expression, logic and emotion.",
+    "title": "Where Algorithms Meet Artistry",
+    "section": "How It Works",
+    "text": "How It Works\n\nThe Weekend Jam: Kickoff & Creation\nCross‑disciplinary teams of dancers and programmers come together to select, understand, and choreograph an algorithm. Each group will select an algorithm, either of their own choice or from the selection found under the Algorithms tab. Then we’ll have each party describe the techiniques being used: dancers will showcase the basic movement “blocks” of the Bulgarian dance, and programmers will break down the logic behind the algorithm of choice. Next comes the fun part! Coders and dancer will collaborate side‑by‑side, mapping the algorithm’s logic to the nuanced movement and rhythm, exploring how various steps of a given algorithm might translate into the physical space that a dance occupies.\n\n\nRefinement & Rehearsal\nTeams will meet up asynchronously to debug their movement logic, strengthening structure and clarifying concepts through rehearsal, feedback and iteration. As in programming, you’ll test, revise and polish until the routine becomes and algorithm come to life through dance.\n\n\nShowcase Event\nThe culmination of months of creative synergy, where each group will have their choreography performed live. For an additional “techy” flair, programmers can also design animations or graphics to go along with the dancers movements.",
     "crumbs": [
       "About",
       "Home"
@@ -68,9 +68,9 @@
   {
     "objectID": "index.html#why-participate",
     "href": "index.html#why-participate",
-    "title": "Dance Jam 2026",
-    "section": "",
-    "text": "The Dance Jam is an immersive experience that breaks down silos between disciplines. Whether you’re a dancer curious about algorithms or this jam is your chance to collaborate, experiment and build something completely unexpected. Break down barriers between disciplines. Go to registration to save your spot!",
+    "title": "Where Algorithms Meet Artistry",
+    "section": "Why Participate?",
+    "text": "Why Participate?\nThe Dance Jam is an immersive experience that breaks down silos between disciplines. Whether you’re a dancer curious about algorithms or this jam is your chance to collaborate, experiment and build something completely unexpected. Break down barriers between disciplines. Go to registration to save your spot!",
     "crumbs": [
       "About",
       "Home"
@@ -92,7 +92,7 @@
     "href": "registration.html",
     "title": "How to Register",
     "section": "",
-    "text": "Placeholder for the registration information Create Google form? What questions should be asked? Do we have t-shirts, prizes? Will lunch be provided?",
+    "text": "Placeholder for the registration information\nCreate Google form?\nWhat questions should be asked?\nDo we have t-shirts, prizes?\nWill lunch be provided?",
     "crumbs": [
       "About",
       "Registration"
@@ -101,9 +101,9 @@
   {
     "objectID": "dance.html",
     "href": "dance.html",
-    "title": "Bulgarian dance",
+    "title": "Bulgarian Kopanitsa",
     "section": "",
-    "text": "Contains information on the building blocks of this Bulgarian dance style.",
+    "text": "The Kopanitsa is one of the most energetic and technically demanding folk dances from the Shop (Shope) region of western Bulgaria. Its name is derived from the Bulgarian word kopanye, which means “digging,” reflecting the sharp, downward-driving footwork that mimics the rhythmic striking of the earth.\nWhat truly sets the Kopanitsa apart is its complex asymmetrical meter as it is typically performed in 11/16 time. This rhythm is subdivided into five beats: quick–quick–slow–quick–quick or 2 + 2 + 3 + 2 + 2.\n\n\n\n\nThe Grip:\nDancers usually hold each other by the belt (na lesa) or join hands in a V position, forming a fast-moving line or circle.\nThe Movement:\nCharacterized by intricate “knitting” steps, high knee lifts, and sudden squats.\nThe Vibe:\nA display of strength and agility. While traditionally emphasizing masculine prowess, it is now performed by all genders and often reaches a frenetic pace as the music accelerates.\n\n\n\n\n\nThe Kopanitsa is played in an 11/16 time signature. Because the middle beat is slightly longer than the others, it can feel like a lopsided heartbeat.\nDancers think of it as five counts, giving the third count extra weight. As we saw before, this can be written like 1 – 2 – [3] – 4 – 5 or short – short – LONG – short – short\n\n\n\n\nKopanitsa is a social dance performed today at weddings, festivals, and on large international stages. Historically, it is more than just a dance—it is a vital expression of national identity and the rebellious spirit of the Bulgarian people, particularly the Shopi highlanders.\nDuring the long period of Ottoman rule (1396–1878), when many forms of cultural expression were restricted, communal dances in the village square became a “censorship-free” space where Bulgarians could maintain their language, faith, and unity. Socially, the dance served as the heartbeat of village life, performed at Sunday gatherings (horo), weddings, and festivals.\nBecause Kopanitsa is a “called” dance (where a leader shouts out changes), it historically served as a test of community coordination and personal stamina. In the rugged Shopluk region, the aggressive “digging” steps and accelerating tempo became a way to display humor, resilience, and masculine prowess. While it was traditionally often gender-segregated, today it is a unifying force, bringing people of all ages together in a single fast-moving line.\n\n\n\n\nKopanitsa is traditionally danced in a long line of dancers connected by a belt hold, with each dancer holding the belts of the dancers on either side. This creates a strong sense of community and cohesion.\n\nThe dance progresses to the right, with rightward movements traveling slightly more than those moving left.\nIn social settings, dancers form an open circle moving around the space.\nIn performance settings, dancers move more freely, creating lines, circles, or other choreographic figures.\n\nSteps can be combined into more complex patterns or sequences, like Lego pieces that can be assembled, taken apart, and rebuilt in different ways.\n\n\n\n\nTo perform the basic traveling step:\n\nKeep your knees bouncy\nKeep your weight on the balls of your feet\nDance down into the floor with the body held tall and upright\n\n\n\n\n\n\nCount\nAction\nDuration\n\n\n\n\n1\nStep to the right with your right foot\nShort\n\n\n2\nCross your left foot behind the right\nShort\n\n\n3\nStep to the right with your right foot\nLong\n\n\n4\nHop or small lift on your right foot\nShort\n\n\n5\nStep onto your left foot in front\nShort\n\n\n\n\n\n\n\n\n\n\nTip\n\n\n\n\nThe “Dig”: On the 3rd (long) beat, really sink into the step—this is where the “digging” name comes from.\nPosture: Keep your upper body tall and proud while your legs do the heavy lifting.\nSpeed: Start slow. Traditionally, the music begins at a manageable pace and ends in a blur of feet.\n\n\n\n\n\n\n\nInformation on the building blocks of this Bulgarian dance style.\n\n\n\nRhythm is non-negotiable, due to the various step components. Explain this.\nWhat can we manipulate? And by how much?",
     "crumbs": [
       "Resources",
       "Dance"
@@ -112,20 +112,20 @@
   {
     "objectID": "refinement.html",
     "href": "refinement.html",
-    "title": "Refinement Weekend",
+    "title": "Refinements",
     "section": "",
-    "text": "Placeholder for the kickoff weekend information Add in the dates!",
+    "text": "Placeholder for the how to refine choreography, communicate across teams.",
     "crumbs": [
       "Event Information",
-      "Refinement Weekend"
+      "Refinement"
     ]
   },
   {
     "objectID": "algorithms.html",
     "href": "algorithms.html",
-    "title": "Algorithms",
+    "title": "Understanding Algorithms",
     "section": "",
-    "text": "Provides information on algorithms along with resources for animation.\nExample of Bubble Sort animation  manim video of bubble sort  The purpose of the video is to sort the bars from shortest to longest. The algorithm starts at the beginning and checks each bar with it’s neighbor by outlining in orange. If the bars are not in the correct order, the bars swap spots. Otherwise, it moves to the next set of neighbors. This continues until every bar is in the correct order and correct position.\nThere are a plethora of resources out there to visualize sorting algorithms. Here is another example.",
+    "text": "An algorithm is just a set of clear instructions that tell you how to accomplish a particular task. If you’ve ever followed a recipe or built IKEA furniture, you’ve used an algorithm before!\nSome algorithms are very simple, moving step by step in a straight line. Others are a bit more complex, looping or branching like twists and turns in a dance. The key is that they always have a purpose and a goal.\n\n\n\n\nThe Steps:\nEvery algorithm has specific steps. Skipping a step is like missing a move in a dance, and the combination of steps is what makes each algorithm unique.\nThe Flow:\nSome algorithms go straight from start to finish. Others repeat certain steps (loops) or make choices along the way (branches), just like different formations in a dance.\nThe Goal:\nThe aim of an algorithm is to get a reliable method for doing a particular task. Some algorithms are better at doing particular tasks. Figuring out which one to use when is part of what makes programming an art\n\n\n\n\n\nAlgorithms are all around us. They decide:\n\nWhat shows up in your social media feed\n\nHow a GPS finds the fastest route\n\nHow search engines rank pages\n\nHow a game decides what happens next",
     "crumbs": [
       "Resources",
       "Algorithms"
@@ -145,12 +145,287 @@
   {
     "objectID": "kickoff.html",
     "href": "kickoff.html",
-    "title": "Kickoff Weekend",
+    "title": "Jam Weekend",
     "section": "",
     "text": "Placeholder for the kickoff weekend information",
     "crumbs": [
       "Event Information",
-      "Kickoff Weekend"
+      "Jam Weekend"
+    ]
+  },
+  {
+    "objectID": "dance.html#key-features-of-the-dance",
+    "href": "dance.html#key-features-of-the-dance",
+    "title": "Bulgarian Kopanitsa",
+    "section": "Key Features of the Dance",
+    "text": "Key Features of the Dance\n\nThe Grip:\nDancers usually hold each other by the belt (na lesa) or join hands in a V position, forming a fast-moving line or circle.\nThe Movement:\nCharacterized by intricate “knitting” steps, high knee lifts, and sudden squats.\nThe Vibe:\nA display of strength and agility. While traditionally emphasizing masculine prowess, it is now performed by all genders and often reaches a frenetic pace as the music accelerates.",
+    "crumbs": [
+      "Resources",
+      "Dance"
+    ]
+  },
+  {
+    "objectID": "dance.html#rhythm-and-musical-structure",
+    "href": "dance.html#rhythm-and-musical-structure",
+    "title": "Bulgarian Kopanitsa",
+    "section": "Rhythm and Musical Structure",
+    "text": "Rhythm and Musical Structure\nThe Kopanitsa is played in an 11/16 time signature. Because the middle beat is slightly longer than the others, it can feel like a lopsided heartbeat.\nDancers think of it as five counts, giving the third count extra weight. As we saw before, this can be written like 1 – 2 – [3] – 4 – 5 or short – short – LONG – short – short",
+    "crumbs": [
+      "Resources",
+      "Dance"
+    ]
+  },
+  {
+    "objectID": "dance.html#historical-and-social-context",
+    "href": "dance.html#historical-and-social-context",
+    "title": "Bulgarian Kopanitsa",
+    "section": "Historical and Social Context",
+    "text": "Historical and Social Context\nKopanitsa is a social dance performed today at weddings, festivals, and on large international stages. Historically, it is more than just a dance—it is a vital expression of national identity and the rebellious spirit of the Bulgarian people, particularly the Shopi highlanders.\nDuring the long period of Ottoman rule (1396–1878), when many forms of cultural expression were restricted, communal dances in the village square became a “censorship-free” space where Bulgarians could maintain their language, faith, and unity. Socially, the dance served as the heartbeat of village life, performed at Sunday gatherings (horo), weddings, and festivals.\nBecause Kopanitsa is a “called” dance (where a leader shouts out changes), it historically served as a test of community coordination and personal stamina. In the rugged Shopluk region, the aggressive “digging” steps and accelerating tempo became a way to display humor, resilience, and masculine prowess. While it was traditionally often gender-segregated, today it is a unifying force, bringing people of all ages together in a single fast-moving line.",
+    "crumbs": [
+      "Resources",
+      "Dance"
+    ]
+  },
+  {
+    "objectID": "dance.html#floor-patterns",
+    "href": "dance.html#floor-patterns",
+    "title": "Bulgarian Kopanitsa",
+    "section": "Floor Patterns",
+    "text": "Floor Patterns\nKopanitsa is traditionally danced in a long line of dancers connected by a belt hold, with each dancer holding the belts of the dancers on either side. This creates a strong sense of community and cohesion.\n\nThe dance progresses to the right, with rightward movements traveling slightly more than those moving left.\nIn social settings, dancers form an open circle moving around the space.\nIn performance settings, dancers move more freely, creating lines, circles, or other choreographic figures.\n\nSteps can be combined into more complex patterns or sequences, like Lego pieces that can be assembled, taken apart, and rebuilt in different ways.",
+    "crumbs": [
+      "Resources",
+      "Dance"
+    ]
+  },
+  {
+    "objectID": "dance.html#the-basic-traveling-step",
+    "href": "dance.html#the-basic-traveling-step",
+    "title": "Bulgarian Kopanitsa",
+    "section": "The Basic Traveling Step",
+    "text": "The Basic Traveling Step\nTo perform the basic traveling step:\n\nKeep your knees bouncy\nKeep your weight on the balls of your feet\nDance down into the floor with the body held tall and upright\n\n\nStep Breakdown\n\n\n\nCount\nAction\nDuration\n\n\n\n\n1\nStep to the right with your right foot\nShort\n\n\n2\nCross your left foot behind the right\nShort\n\n\n3\nStep to the right with your right foot\nLong\n\n\n4\nHop or small lift on your right foot\nShort\n\n\n5\nStep onto your left foot in front\nShort\n\n\n\n\n\n\n\n\n\n\nTip\n\n\n\n\nThe “Dig”: On the 3rd (long) beat, really sink into the step—this is where the “digging” name comes from.\nPosture: Keep your upper body tall and proud while your legs do the heavy lifting.\nSpeed: Start slow. Traditionally, the music begins at a manageable pace and ends in a blur of feet.\n\n\n\n\n\n\nBuilding Blocks\nInformation on the building blocks of this Bulgarian dance style.\n\n\nIdeas for translating to code\nRhythm is non-negotiable, due to the various step components. Explain this.\nWhat can we manipulate? And by how much?",
+    "crumbs": [
+      "Resources",
+      "Dance"
+    ]
+  },
+  {
+    "objectID": "dance.html#tips-for-success",
+    "href": "dance.html#tips-for-success",
+    "title": "Bulgarian dance",
+    "section": "Tips for Success",
+    "text": "Tips for Success\n\nThe “Dig” On the 3rd (long) beat, really sink into the step—this is where the “digging” name comes from.\nPosture Keep your upper body tall and proud while your legs do the heavy lifting.\nSpeed Start slow. Traditionally, the music begins at a manageable pace and ends in a blur of feet.",
+    "crumbs": [
+      "Resources",
+      "Dance"
+    ]
+  },
+  {
+    "objectID": "algorithms.html#section",
+    "href": "algorithms.html#section",
+    "title": "Understanding Algorithms",
+    "section": "",
+    "text": "The purpose of the Bubble Sort algorithm is to sort elements from smallest to largest.\n\n\nVideo\nmanim video of bubble sort\n\n\nAfter watching the animation, you can see how the steps play out in real time.\n\nBubble Sort in Pseudocode\nprocedure BubbleSort(A)\n    n = length(A)\n    for i from 1 to n-1 do\n        for j from 0 to n-i-1 do\n            if A[j] &gt; A[j+1] then\n                swap A[j] and A[j+1]\n            end if\n        end for\n    end for\nend procedure\nThe purpose of the video is to sort the bars from shortest to longest. The algorithm starts at the beginning and checks each bar with it’s neighbor by outlining in orange. If the bars are not in the correct order, the bars swap spots. Otherwise, it moves to the next set of neighbors. This continues until every bar is in the correct order and correct position.\nThere are a plethora of resources out there to visualize sorting algorithms. Here is another example.\n\n\n\n\n\n\nTip\n\n\n\nFocus on the Key Step: Swapping items is the main action—like the “big move” in a dance. Follow the Order: Doing things out of order can mess up the final result. Start Small: Try a small example first, then work up to bigger lists—just like practicing dance slowly before performing quickly.",
+    "crumbs": [
+      "Resources",
+      "Algorithms"
+    ]
+  },
+  {
+    "objectID": "algorithms.html#key-features-of-algorithms",
+    "href": "algorithms.html#key-features-of-algorithms",
+    "title": "Understanding Algorithms",
+    "section": "Key Features of Algorithms",
+    "text": "Key Features of Algorithms\n\nThe Steps:\nEvery algorithm has specific steps. Skipping a step is like missing a move in a dance, and the combination of steps is what makes each algorithm unique.\nThe Flow:\nSome algorithms go straight from start to finish. Others repeat certain steps (loops) or make choices along the way (branches), just like different formations in a dance.\nThe Goal:\nThe aim of an algorithm is to get a reliable method for doing a particular task. Some algorithms are better at doing particular tasks. Figuring out which one to use when is part of what makes programming an art",
+    "crumbs": [
+      "Resources",
+      "Algorithms"
+    ]
+  },
+  {
+    "objectID": "algorithms.html#rhythm-and-structure",
+    "href": "algorithms.html#rhythm-and-structure",
+    "title": "Understanding Algorithms",
+    "section": "Rhythm and Structure",
+    "text": "Rhythm and Structure\nAlgorithms have a “rhythm” in the order things happen:\n\nStep by step → simple, steady moves\n\nLoops → repeated moves\n\nChoices/branches → small detours or changes in the pattern\n\nIf steps are out of order, it can feel “off beat,” just like a dancer who misses their timing.",
+    "crumbs": [
+      "Resources",
+      "Algorithms"
+    ]
+  },
+  {
+    "objectID": "algorithms.html#why-algorithms-matter",
+    "href": "algorithms.html#why-algorithms-matter",
+    "title": "Understanding Algorithms",
+    "section": "Why Algorithms Matter",
+    "text": "Why Algorithms Matter\nAlgorithms are all around us. They decide:\n\nWhat shows up in your social media feed\n\nHow a GPS finds the fastest route\n\nHow search engines rank pages\n\nHow a game decides what happens next",
+    "crumbs": [
+      "Resources",
+      "Algorithms"
+    ]
+  },
+  {
+    "objectID": "algorithms.html#seeing-algorithms-in-action",
+    "href": "algorithms.html#seeing-algorithms-in-action",
+    "title": "Understanding Algorithms",
+    "section": "Seeing Algorithms in Action",
+    "text": "Seeing Algorithms in Action\n\nSorting algorithms: usually used with information stored in a “line” (we call these arrays), these algorithms decide how to organize and sort the line until a particular condition is met. Examples include bubble sort,\n\nGraph algorithms: used with information stored in a map (what we call a graph), these algorithms decide the best route to take. Examples include:\nSequence generators: used with information stored in a line (usually text) where order matters, these algorithms do next item prediction. Examples include markov chains and n-grams.",
+    "crumbs": [
+      "Resources",
+      "Algorithms"
+    ]
+  },
+  {
+    "objectID": "algorithms.html#example-bubble-sort-animation",
+    "href": "algorithms.html#example-bubble-sort-animation",
+    "title": "Understanding Algorithms",
+    "section": "Example: Bubble Sort Animation",
+    "text": "Example: Bubble Sort Animation\nThe purpose of the Bubble Sort algorithm is to sort elements from smallest to largest.\n\n\nVideo\nmanim video of bubble sort\n\n\nAfter watching the animation, you can see how the steps play out in real time.\n\nBubble Sort in Pseudocode\nprocedure BubbleSort(A)\n    n = length(A)\n    for i from 1 to n-1 do\n        for j from 0 to n-i-1 do\n            if A[j] &gt; A[j+1] then\n                swap A[j] and A[j+1]\n            end if\n        end for\n    end for\nend procedure\nThe purpose of the video is to sort the bars from shortest to longest. The algorithm starts at the beginning and checks each bar with it’s neighbor by outlining in orange. If the bars are not in the correct order, the bars swap spots. Otherwise, it moves to the next set of neighbors. This continues until every bar is in the correct order and correct position.\nThere are a plethora of resources out there to visualize sorting algorithms. Here is another example.\n\n\n\n\n\n\nTip\n\n\n\nFocus on the Key Step: Swapping items is the main action—like the “big move” in a dance. Follow the Order: Doing things out of order can mess up the final result. Start Small: Try a small example first, then work up to bigger lists—just like practicing dance slowly before performing quickly.",
+    "crumbs": [
+      "Resources",
+      "Algorithms"
+    ]
+  },
+  {
+    "objectID": "algorithms.html#example-generating",
+    "href": "algorithms.html#example-generating",
+    "title": "Understanding Algorithms",
+    "section": "Example generating",
+    "text": "Example generating",
+    "crumbs": [
+      "Resources",
+      "Algorithms"
+    ]
+  },
+  {
+    "objectID": "algorithms.html#example-generating-algiorthms-markov-chains-and-n-grams",
+    "href": "algorithms.html#example-generating-algiorthms-markov-chains-and-n-grams",
+    "title": "Understanding Algorithms",
+    "section": "Example generating algiorthms: markov chains and n-grams",
+    "text": "Example generating algiorthms: markov chains and n-grams",
+    "crumbs": [
+      "Resources",
+      "Algorithms"
+    ]
+  },
+  {
+    "objectID": "algorithms.html#example-generating-algiorthms-markov-chains-n-grams",
+    "href": "algorithms.html#example-generating-algiorthms-markov-chains-n-grams",
+    "title": "Understanding Algorithms",
+    "section": "Example generating algiorthms: markov chains n-grams",
+    "text": "Example generating algiorthms: markov chains n-grams",
+    "crumbs": [
+      "Resources",
+      "Algorithms"
+    ]
+  },
+  {
+    "objectID": "algorithms.html#types-of-algorithms-to-consider",
+    "href": "algorithms.html#types-of-algorithms-to-consider",
+    "title": "Dance Jam 2026",
+    "section": "Types of Algorithms to Consider",
+    "text": "Types of Algorithms to Consider\n\nSorting algorithms\nThese are used with information stored in a “line” (commonly called an array). Sorting algorithms decide how to organize items in a particular order, such as ascending or descending, until a desired condition is met. Sorting is a foundational concept in computer science and appears in many real-world applications like ranking scores, arranging names alphabetically, or organizing files.\n\nSorting Examples\n\nBubble Sort – repeatedly swaps adjacent items if they are in the wrong order.\n\nMerge Sort – divides the list into smaller pieces, sorts them, and merges them back together.\n\nQuick Sort – picks a pivot element and partitions the list into smaller and larger elements recursively.\n\n\n\n\nGraph algorithms\nThese are used with information stored in a graph, which is a set of nodes (points) connected by edges (lines). Graph algorithms are used to find paths, optimize routes, or discover relationships between nodes. This is helpful in GPS navigation, network analysis, social media connections, and more.\n\nGraph Examples\n\nDijkstra’s Algorithm – finds the shortest path between nodes in a weighted graph.\n\nA* Search – finds the most efficient route using heuristics to guide the search.\n\nDepth-First Search (DFS) – explores as far as possible along each branch before backtracking.\n\nBreadth-First Search (BFS) – explores all neighbors level by level, useful for finding shortest paths in unweighted graphs.\nClick here to read more about graph algorithms\n\n\n\n\nGenerating algorithms\nThese are used with information stored in a line or sequence (often text) where the order matters. Sequence generators predict the next item in a series based on previous items. This is widely used in text prediction, music composition, and procedural generation of content.\n\nGenerating Examples\n\nMarkov Chains – generates sequences where the next item depends only on the current item or state. Great for generating new dance moves, music notes, or text sequences.\n\nN-grams – looks at sequences of n items to predict the next item, capturing patterns from previous n-1 steps. Useful for generating coherent sequences in text, music, or choreography.\n\nde Bruijn sequences – generates sequences that cover all possible combinations of a set of elements exactly once. Useful in puzzles, coding theory, and sequence testing.",
+    "crumbs": [
+      "Resources",
+      "Algorithms"
+    ]
+  },
+  {
+    "objectID": "algorithms.html#sequence-generating-algorithms",
+    "href": "algorithms.html#sequence-generating-algorithms",
+    "title": "Understanding Algorithms",
+    "section": "Sequence Generating Algorithms",
+    "text": "Sequence Generating Algorithms\nLet’s start with building blocks: A , B, and BA\nFor each building block we can assign probabilities for which block follows which:\n\n\n\nCurrent Move\nNext Move Options\n\n\n\n\nA\nB (70%), BA (30%)\n\n\nB\nA (50%), BA (50%)\n\n\nBA\nA (100%)\n\n\n\nExample Sequence Generation:\n- Start with A.\n- Randomly pick the next move according to probabilities:\n- 70% chance → B\n- 30% chance → BA\n- Continue for a few steps:\nPossible sequence:\nA → B → BA → A → B → A → BA\nTo configure these to a particular style you can decide what building blocks constitute a move (perhaps including an AB subsequence) and how likely it is to move from one subsequence to another (changing the probabilities). You can also decide on if there is a particular subsequence that requires a stop, how many times can you get stuck into a loop, the list goes on!",
+    "crumbs": [
+      "Resources",
+      "Algorithms"
+    ]
+  },
+  {
+    "objectID": "algorithms.html#what",
+    "href": "algorithms.html#what",
+    "title": "Understanding Algorithms",
+    "section": "",
+    "text": "An algorithm is just a set of clear instructions that tell you how to accomplish a particular task. If you’ve ever followed a recipe or built IKEA furniture, you’ve used an algorithm before!\nSome algorithms are very simple, moving step by step in a straight line. Others are a bit more complex, looping or branching like twists and turns in a dance. The key is that they always have a purpose and a goal.\n\n\n\n\nThe Steps:\nEvery algorithm has specific steps. Skipping a step is like missing a move in a dance, and the combination of steps is what makes each algorithm unique.\nThe Flow:\nSome algorithms go straight from start to finish. Others repeat certain steps (loops) or make choices along the way (branches), just like different formations in a dance.\nThe Goal:\nThe aim of an algorithm is to get a reliable method for doing a particular task. Some algorithms are better at doing particular tasks. Figuring out which one to use when is part of what makes programming an art\n\n\n\n\n\nAlgorithms are all around us. They decide:\n\nWhat shows up in your social media feed\n\nHow a GPS finds the fastest route\n\nHow search engines rank pages\n\nHow a game decides what happens next",
+    "crumbs": [
+      "Resources",
+      "Algorithms"
+    ]
+  },
+  {
+    "objectID": "algorithms.html#what-even-is-an-algorithm",
+    "href": "algorithms.html#what-even-is-an-algorithm",
+    "title": "Dance Jam 2026",
+    "section": "What Even is an Algorithm?",
+    "text": "What Even is an Algorithm?\nAn algorithm is just a set of clear instructions that tell you how to accomplish a particular task. If you’ve ever followed a recipe or built IKEA furniture, you’ve used an algorithm before!\nSome algorithms are very simple, moving step by step in a straight line. Others are a bit more complex, looping or branching like twists and turns in a dance. The key is that they always have a purpose and a goal.\n\n\nKey Features of Algorithms\n\nThe Steps:\nEvery algorithm has specific steps. Skipping a step is like missing a move in a dance, and the combination of steps is what makes each algorithm unique.\nThe Flow:\nSome algorithms go straight from start to finish. Others repeat certain steps (loops) or make choices along the way (branches), just like different formations in a dance.\nThe Goal:\nThe aim of an algorithm is to get a reliable method for doing a particular task. Some algorithms are better at doing particular tasks. Figuring out which one to use when is part of what makes programming an art\n\n\n\n\nWhy Algorithms Matter\nAlgorithms are all around us. They decide:\n\nWhat shows up in your social media feed\n\nHow a GPS finds the fastest route\n\nHow search engines rank pages\n\nHow a game decides what happens next",
+    "crumbs": [
+      "Resources",
+      "Algorithms"
+    ]
+  },
+  {
+    "objectID": "algorithms.html#going",
+    "href": "algorithms.html#going",
+    "title": "Understanding Algorithms",
+    "section": "Going",
+    "text": "Going\nThe purpose of the Bubble Sort algorithm is to sort elements from smallest to largest.\n\n\nVideo\nmanim video of bubble sort\n\n\nAfter watching the animation, you can see how the steps play out in real time.\n\nBubble Sort in Pseudocode\nprocedure BubbleSort(A)\n    n = length(A)\n    for i from 1 to n-1 do\n        for j from 0 to n-i-1 do\n            if A[j] &gt; A[j+1] then\n                swap A[j] and A[j+1]\n            end if\n        end for\n    end for\nend procedure\nThe purpose of the video is to sort the bars from shortest to longest. The algorithm starts at the beginning and checks each bar with it’s neighbor by outlining in orange. If the bars are not in the correct order, the bars swap spots. Otherwise, it moves to the next set of neighbors. This continues until every bar is in the correct order and correct position.\nThere are a plethora of resources out there to visualize sorting algorithms. Here is another example.\n\n\n\n\n\n\nTip\n\n\n\nFocus on the Key Step: Swapping items is the main action—like the “big move” in a dance. Follow the Order: Doing things out of order can mess up the final result. Start Small: Try a small example first, then work up to bigger lists—just like practicing dance slowly before performing quickly.",
+    "crumbs": [
+      "Resources",
+      "Algorithms"
+    ]
+  },
+  {
+    "objectID": "algorithms.html#how-to",
+    "href": "algorithms.html#how-to",
+    "title": "Understanding Algorithms",
+    "section": "How to",
+    "text": "How to\nThe purpose of the Bubble Sort algorithm is to sort elements from smallest to largest.\n\n\nVideo\nmanim video of bubble sort\n\n\nAfter watching the animation, you can see how the steps play out in real time.\n\nBubble Sort in Pseudocode\nprocedure BubbleSort(A)\n    n = length(A)\n    for i from 1 to n-1 do\n        for j from 0 to n-i-1 do\n            if A[j] &gt; A[j+1] then\n                swap A[j] and A[j+1]\n            end if\n        end for\n    end for\nend procedure\nThe purpose of the video is to sort the bars from shortest to longest. The algorithm starts at the beginning and checks each bar with it’s neighbor by outlining in orange. If the bars are not in the correct order, the bars swap spots. Otherwise, it moves to the next set of neighbors. This continues until every bar is in the correct order and correct position.\nThere are a plethora of resources out there to visualize sorting algorithms. Here is another example.\n\n\n\n\n\n\nTip\n\n\n\nFocus on the Key Step: Swapping items is the main action—like the “big move” in a dance. Follow the Order: Doing things out of order can mess up the final result. Start Small: Try a small example first, then work up to bigger lists—just like practicing dance slowly before performing quickly.",
+    "crumbs": [
+      "Resources",
+      "Algorithms"
+    ]
+  },
+  {
+    "objectID": "algorithms.html#how-to-decipher-an-algorithm",
+    "href": "algorithms.html#how-to-decipher-an-algorithm",
+    "title": "Understanding Algorithms",
+    "section": "How to Decipher an Algorithm",
+    "text": "How to Decipher an Algorithm\nLet’s take a peek at the Bubble Sort algorithm. The purpose of thisalgorithm is to sort elements from smallest to largest.\n\n\nVideo\nmanim video of bubble sort\n\n\nThe purpose of the video is to sort the bars from shortest to longest. The algorithm starts at the beginning and checks each bar with it’s neighbor by outlining in orange. If the bars are not in the correct order, the bars swap spots. Otherwise, it moves to the next set of neighbors. This continues until every bar is in the correct order and correct position.\n\nBubble Sort in Pseudocode\nprocedure BubbleSort(A)\n    n = length(A)\n    for i from 1 to n-1 do\n        for j from 0 to n-i-1 do\n            if A[j] &gt; A[j+1] then\n                swap A[j] and A[j+1]\n            end if\n        end for\n    end for\nend procedure\nThere are a plethora of resources out there to visualize sorting algorithms. Here is another example.",
+    "crumbs": [
+      "Resources",
+      "Algorithms"
+    ]
+  },
+  {
+    "objectID": "algorithms.html#sorting-algorithm",
+    "href": "algorithms.html#sorting-algorithm",
+    "title": "Understanding Algorithms",
+    "section": "Sorting Algorithm",
+    "text": "Sorting Algorithm\nLet’s take a peek at the Bubble Sort algorithm. The purpose of thisalgorithm is to sort elements from smallest to largest.\n\n\nVideo\nmanim video of bubble sort\n\n\nThe purpose of the video is to sort the bars from shortest to longest. The algorithm starts at the beginning and checks each bar with it’s neighbor by outlining in orange. If the bars are not in the correct order, the bars swap spots. Otherwise, it moves to the next set of neighbors. This continues until every bar is in the correct order and correct position.\n\nBubble Sort in Pseudocode\nprocedure BubbleSort(A)\n    n = length(A)\n    for i from 1 to n-1 do\n        for j from 0 to n-i-1 do\n            if A[j] &gt; A[j+1] then\n                swap A[j] and A[j+1]\n            end if\n        end for\n    end for\nend procedure\nThere are a plethora of resources out there to visualize sorting algorithms. Here is another example.",
+    "crumbs": [
+      "Resources",
+      "Algorithms"
+    ]
+  },
+  {
+    "objectID": "algorithms.html#sorting-algorithm-example",
+    "href": "algorithms.html#sorting-algorithm-example",
+    "title": "Dance Jam 2026",
+    "section": "Sorting Algorithm Example",
+    "text": "Sorting Algorithm Example\nLet’s take a peek at the Bubble Sort algorithm. Bubble Sort is a simple algorithm that repeatedly steps through a list, compares adjacent items, and swaps them if they are in the wrong order. Think of each comparison as a “dance move” and each swap as changing of positions of the dancers in the choreography.\n\n\nVideo\nmanim video of bubble sort\n\n\nThe algorithm starts at the beginning and checks each bar with it’s neighbor by outlining in orange. If the bars are not in the correct order, the bars swap spots. Otherwise, it moves to the next set of neighbors. This continues until every bar is in the correct order and correct position.\n\nBubble Sort in Pseudocode\nBelow is what we call pseudocode which is a formal way to document the procedure of steps taken.\nprocedure BubbleSort(A)\n    n = length(A)\n    for i from 1 to n-1 do\n        for j from 0 to n-i-1 do\n            if A[j] &gt; A[j+1] then\n                swap A[j] and A[j+1]\n            end if\n        end for\n    end for\nend procedure\n\n\nStep-by-Step Explanation of Bubble Sort\n\nOuter loop (i): The line for i from 1 to n-1 do goes through the entire list multiple times. Each pass ensures that the largest unsorted item “bubbles up” to its correct position at the end of the list.\nInner loop (j): The line for j from 0 to n-i-1 do moves through the unsorted portion of the list. It compares each item with its immediate neighbor on the right.\nSwap step: The line swap A[j] and A[j+1] checks if the two neighboring items are in the wrong order. If they are, it exchanges them, moving the larger value toward the end of the list.\nRepeat: This process repeats for all passes until no swaps are needed, meaning all elements are sorted.\n\n\n\n\n\n\n\nNote\n\n\n\n\nn-i-1 ensures that the inner loop does not compare elements that are already sorted at the end.\n\nEach pass of the outer loop guarantees that at least one element is placed in its final position.\n\nBubble Sort is simple but not very efficient for large lists (mainly used for teaching and small data).\n\n\n\nThere are a plethora of resources out there to visualize sorting algorithms. Here is another example.",
+    "crumbs": [
+      "Resources",
+      "Algorithms"
+    ]
+  },
+  {
+    "objectID": "algorithms.html#sequence-generating-algorithm-example",
+    "href": "algorithms.html#sequence-generating-algorithm-example",
+    "title": "Dance Jam 2026",
+    "section": "Sequence Generating Algorithm Example",
+    "text": "Sequence Generating Algorithm Example\nLet’s start with building blocks: A , B, and BA\nFor each building block we can assign probabilities for which block follows which:\n\n\n\nCurrent Move\nNext Move Options\n\n\n\n\nA\nB (70%), BA (30%)\n\n\nB\nA (50%), BA (50%)\n\n\nBA\nA (100%)\n\n\n\nExample Sequence Generation:\n\nStart with A.\n\nRandomly pick the next move according to probabilities:\n\n70% chance → B\n\n30% chance → BA\n\nRepeat\n\nA possible sequence generated could be something like: A → B → BA → A → B → A → BA' orABBAABABA`. Between each arrow you can also decide to add in some transition steps. There are many ways to take this process to generate specific styles of dance.\n\nBuilding Blocks\nTo configure these to a particular style, you can decide what building blocks constitute a move. For example, you might include simple blocks like A or B, or more complex subsequences such as AB or BAF. Each block can represent a step, a pose, or a short combination of movements.\n\n\nLikelihoods\nYou can also define how likely it is to move from one subsequence to another by adjusting the probabilities. For example:\n\nFrom A you might have a 70% chance to go to B and a 30% chance to go to AB.\n\nFrom B, you might allow a 50% chance to repeat B or a 50% chance to go to BA.\n\n\n\nThe “Juice” (what we call style)\nBeyond simple transitions, you can add more sophisticated rules to create a richer choreography style:\n\nStops or pauses: Certain subsequences might require a deliberate stop or hold before continuing.\n\nLoops: You can decide how many times a sequence can repeat before moving on, preventing the routine from getting stuck in the same pattern.\n\nConstraints on combinations: Perhaps some subsequences cannot follow certain others, or some must always appear after another block.\n\nWeighted variation: You can increase variety by making rare transitions possible but unlikely, giving the dance unpredictability while keeping it stylistically consistent.\n\nDynamic probabilities: You could even change the probabilities over time—for instance, start with simple moves and gradually favor more complex subsequences as the sequence progresses.\n\nIn short, the list goes on. By tuning the building blocks, probabilities, and rules, you can create choreography that feels both structured and expressive, while still being generated automatically by the algorithm. This approach lets you capture the style of a dance, text, or music pattern and produce new, coherent sequences that match that style.",
+    "crumbs": [
+      "Resources",
+      "Algorithms"
     ]
   }
 ]

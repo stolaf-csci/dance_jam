@@ -1,7 +1,5 @@
----
-title: "Dance Jam 2026"
----
 
+![](files/full_block_header.png){ width=100% }
 
 # Where Algorithms Meet Artistry
 
@@ -11,20 +9,27 @@ _“Choreographed what??”_
 You heard us!
 
 Inspired by the folk‑dance videos produced at Sapientia University in Transylvania (Romania), where traditional Hungarian, Romanian and Saxon folk‑dance styles were used to illustrate sorting algorithms like [bubble‑sort](https://www.youtube.com/watch?v=lyZQPjUT5B4) and [select-sort](https://www.youtube.com/watch?v=Ns4TPTC8whw). 
-Our jam invites students to create their own original dance that embodies the structure, logic and flow of a chosen algorithm.
 
-This event is all about **creativity**, **collaboration**, and **iteration** 
+Our jam invites students to create their own original choregoraphy using traditional Bulgarian dance steps to embody either the structure, logic and/or flow of a chosen algorithm.
+
+![](files/singlerow_header.png){width=100%}
 
 ## How It Works
 
-### Weekend One — Kickoff & Creation
-Cross‑disciplinary teams of dancers and programmers come together to concept and choreograph an algorithm. The goal: **to choreograph an algorithm** that expresses a computational idea or solves a problem through movement. Coders and dancers collaborate side‑by‑side, mapping code logic to movement and rhythm, exploring how loops, swaps, partitions or recursion might translate into steps, patterns and formations.
+### The Weekend Jam: Kickoff & Creation
+Cross‑disciplinary teams of dancers and programmers come together to select, understand, and choreograph an algorithm. 
+Each group will select an algorithm, either of their own choice or from the selection found under the Algorithms tab. 
+Then we'll have each party describe the techiniques being used: dancers will showcase the basic movement "blocks" of the Bulgarian dance, and programmers will break down the logic behind the algorithm of choice. 
+Next comes the fun part! Coders and dancer will collaborate side‑by‑side, mapping the algorithm's logic to the nuanced movement and rhythm, exploring how various steps of a given algorithm might translate into the physical space that a dance occupies.
 
-### Weekend Two — Refinement & Rehearsal
-Teams return for a focused weekend of debugging their movement logic, strengthening structure and clarifying concepts through rehearsal, feedback and iteration. As in programming, you’ll test, revise and polish until the routine becomes and algorithm come to life through dance.
+### Refinement & Rehearsal
+Teams will meet up asynchronously to debug their movement logic, strengthening structure and clarifying concepts 
+through rehearsal, feedback and iteration. As in programming, you’ll test, revise and polish until the routine 
+becomes and algorithm come to life through dance. 
 
 ### Showcase Event
-The culmination of months of creative synergy, where each group performs their dance algorithm live. Celebrate the fusion of STEM and art, innovation and expression, logic and emotion.
+The culmination of months of creative synergy, where each group will have their choreography performed live. 
+For an additional "techy" flair, programmers can also design animations or graphics to go along with the dancers movements.
 
 ## Why Participate?
 

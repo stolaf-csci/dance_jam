@@ -1,14 +1,11 @@
----
-title: "Dance Jam 2026 Schedule"
----
+![](files/full_block_header.png){width=100%}
 
-| Phase              | Weekday  | Date           | Description                           | Deliverables / Deadlines               | Notes                     |
+| Phase              | Weekday  | Date           | Description                           | Deliverables               | Notes                     |
 | :------------------: | :--------: | :--------------: | :-------------------------------------: | :--------------------------------------: | :-------------------------: |
-| Dance Study Phase  |         | Aug – Dec 2025 | Preparation & Research (ongoing)      |                                       | Selecting dancers to learn the basic movements of the chosen style |
-| Registration Open  | Friday   | 2/7/2026       | Registration Opens                    | Fill out the [form](registration.qmd) |                           |
-| Registration Close | Sunday   | 3/2/2026       | Registration Closes                   | Last day to register                   |                           |
-| [Kickoff Weekend](kickoff.qmd)    | Saturday | 3/15/2026      | Competition Kickoff                  |       | Intro & workshops         |
-|                    | Sunday   | 3/16/2026      | Kickoff Workshops & Team Formation    |   Draft Video Submission                                     |                           |
-| [Refinement Weekend](refinement.qmd) | Saturday | 4/19/2026      | Model Refinement Workshos        |     | Feedback sessions         |
-|                    | Sunday   | 4/20/2026      | Q&A and Troubleshooting               |  Final Video Submission                                       |                           |
-| [Showcase Event](showcase.qmd)     | Friday   | 5/9/2026       | Showcase  |     | Celebration & networking  |
+| Dance Study Phase  |         | Aug – Dec 2025 | Preparation & Research      |                                       | Selecting dancers to learn the basic movements of the chosen style |
+| Registration Open  | Friday   | 2/27/2026       | Registration Opens                    | Fill out the [form](registration.qmd) |                           |
+| Registration Close | Sunday   | 3/15/2026       | Registration Closes                   | Last day to register                   |                           |
+| [Kickoff Weekend](kickoff.qmd)    | Saturday | 3/21/2026      | Jam Kickoff                  |       | Intro & workshops         |
+|                    | Sunday   | 3/22/2026      | Kickoff Workshops & Team Worktime   |   Draft Choreography Submission                                     |                           |
+| [Refinement](refinement.qmd) |  | 3/23 - 4/24     | Refinement and Fine Tuning      |     | Feedback sessions         |
+| [Showcase Event](showcase.qmd)     | Friday   | 5/9/2026       | Showcase  |  Final Choreography Submission   | Celebration & networking  |

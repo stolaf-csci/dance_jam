@@ -1,6 +1,6 @@
----
-title: "People"
----
+
+![](files/tworow_header.png){width=100%}
+
 This event is proudly hosted by the following faculty members:
 
 **Prof. Andrea Conger**  (she/her) &nbsp;&nbsp;&nbsp;&nbsp; *email* <br>
@@ -16,7 +16,7 @@ Department of Computer Science <br>
 _Questions about algorithms, registration, website content_
 
 
-
+**note: pic icons?**
 
 ## Questions?
 
@@ -30,3 +30,6 @@ Feel free to reach out to the hosts with any questions related to:
 - Any other questions or concerns you have!
 
 We’re here to support your creativity and collaboration every step of the way.
+
+
+![](files/full_block_header.png){width=100%}

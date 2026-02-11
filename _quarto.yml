@@ -2,17 +2,16 @@ project:
   type: website
   output-dir: docs
 
+
+
 website:
   title: "Dance Jam 2026"
+
   sidebar:
     background: primary
-    # logo: "images/logo.png"
+    logo: "files/128_icon.png"
     pinned: true
     align: center
-    tools:
-      - icon: github
-        href: https://github.com/stolaf-csci/dance_jam
-        text: GitHub
     style: docked
     contents:
     - section: "About"
@@ -28,9 +27,9 @@ website:
     - section: "Event Information"
       contents:
         - href: kickoff.qmd
-          text: Kickoff Weekend
+          text: Jam Weekend
         - href: refinement.qmd
-          text: Refinement Weekend
+          text: Refinement
         - href: showcase.qmd
           text: Showcase
         - href: discord.qmd
@@ -46,7 +45,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: simplex
     # css: styles.css
     toc: true
 
