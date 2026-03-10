@@ -4,4 +4,4 @@ title: "How to Register"
 
 Please fill out the form below. It will require you to sign into your Google account, and may require you to accept all cookies.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeXRDbXv0P_2I3VmBASxpdWIM4OsmVeJD7BlZEXJxXAHkc5Dw/viewform?embedded=true" width="640" height="2300" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeXRDbXv0P_2I3VmBASxpdWIM4OsmVeJD7BlZEXJxXAHkc5Dw/viewform?embedded=true" width="640" height="650" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
