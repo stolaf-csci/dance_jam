@@ -4,9 +4,9 @@
 | Phase              | Weekday  | Date           | Description                           | Deliverables               | Notes                     |
 | :------------------: | :--------: | :--------------: | :-------------------------------------: | :--------------------------------------: | :-------------------------: |
 | Dance Study Phase  |         | Aug – Dec 2025 | Preparation & Research      |                                       | Selecting dancers to learn the basic movements of the chosen style |
-| Registration Open  | Friday   | 2/27/2026       | Registration Opens                    | Fill out the [form](registration.qmd) |                           |
-| Registration Close | Sunday   | 3/15/2026       | Registration Closes                   | Last day to register                   |                           |
+| Registration Open  | Tuesday   | 3/10/2026       | Registration Opens                    | Fill out the [form](registration.qmd) |                           |
+| Registration Close | Friday   | 3/20/2026       | Registration Closes at 5pm                  | Last day to register                   |                           |
 | [Kickoff Weekend](kickoff.qmd)    | Saturday | 3/21/2026      | Jam Kickoff                  |       | Intro & workshops         |
-|                    | Sunday   | 3/22/2026      | Kickoff Workshops & Team Worktime   |   Draft Choreography Submission                                     |                           |
-| [Refinement](refinement.qmd) |  | 3/23 - 4/24     | Refinement and Fine Tuning      |     | Feedback sessions         |
-| [Showcase Event](showcase.qmd)     | Friday   | 5/9/2026       | Showcase  |  Final Choreography Submission   | Celebration & networking  |
+|                    | Sunday   | 3/22/2026      | Team Worktime   |   Draft Choreography Submission                                     |       Teams build out a draft choreography          |
+| [Refinement](refinement.qmd) |  | 3/23 - 4/14     | Refinement and Fine Tuning      |   Final Choreography Submission  | Feedback sessions         |
+| [Showcase Event](showcase.qmd)     | Friday   | 5/9/2026       | Showcase  |     | Celebration & networking  |

@@ -4,7 +4,7 @@
     "href": "schedule.html",
     "title": "Dance Jam 2026",
     "section": "",
-    "text": "Phase\nWeekday\nDate\nDescription\nDeliverables\nNotes\n\n\n\n\nDance Study Phase\n\nAug – Dec 2025\nPreparation & Research\n\nSelecting dancers to learn the basic movements of the chosen style\n\n\nRegistration Open\nFriday\n2/27/2026\nRegistration Opens\nFill out the form\n\n\n\nRegistration Close\nSunday\n3/15/2026\nRegistration Closes\nLast day to register\n\n\n\nKickoff Weekend\nSaturday\n3/21/2026\nJam Kickoff\n\nIntro & workshops\n\n\n\nSunday\n3/22/2026\nKickoff Workshops & Team Worktime\nDraft Choreography Submission\n\n\n\nRefinement\n\n3/23 - 4/24\nRefinement and Fine Tuning\n\nFeedback sessions\n\n\nShowcase Event\nFriday\n5/9/2026\nShowcase\nFinal Choreography Submission\nCelebration & networking",
+    "text": "Phase\nWeekday\nDate\nDescription\nDeliverables\nNotes\n\n\n\n\nDance Study Phase\n\nAug – Dec 2025\nPreparation & Research\n\nSelecting dancers to learn the basic movements of the chosen style\n\n\nRegistration Open\nTuesday\n3/10/2026\nRegistration Opens\nFill out the form\n\n\n\nRegistration Close\nFriday\n3/20/2026\nRegistration Closes at 5pm\nLast day to register\n\n\n\nKickoff Weekend\nSaturday\n3/21/2026\nJam Kickoff\n\nIntro & workshops\n\n\n\nSunday\n3/22/2026\nTeam Worktime\nDraft Choreography Submission\nTeams build out a draft choreography\n\n\nRefinement\n\n3/23 - 4/14\nRefinement and Fine Tuning\nFinal Choreography Submission\nFeedback sessions\n\n\nShowcase Event\nFriday\n5/9/2026\nShowcase\n\nCelebration & networking",
     "crumbs": [
       "About",
       "Schedule"
@@ -59,7 +59,7 @@
     "href": "index.html#how-it-works",
     "title": "Where Algorithms Meet Artistry",
     "section": "How It Works",
-    "text": "How It Works\n\nThe Weekend Jam: Kickoff & Creation\nCross‑disciplinary teams of dancers and programmers come together to select, understand, and choreograph an algorithm. Each group will select an algorithm, either of their own choice or from the selection found under the Algorithms tab. Then we’ll have each party describe the techiniques being used: dancers will showcase the basic movement “blocks” of the Bulgarian dance, and programmers will break down the logic behind the algorithm of choice. Next comes the fun part! Coders and dancer will collaborate side‑by‑side, mapping the algorithm’s logic to the nuanced movement and rhythm, exploring how various steps of a given algorithm might translate into the physical space that a dance occupies.\n\n\nRefinement & Rehearsal\nTeams will meet up asynchronously to debug their movement logic, strengthening structure and clarifying concepts through rehearsal, feedback and iteration. As in programming, you’ll test, revise and polish until the routine becomes and algorithm come to life through dance.\n\n\nShowcase Event\nThe culmination of months of creative synergy, where each group will have their choreography performed live. For an additional “techy” flair, programmers can also design animations or graphics to go along with the dancers movements.",
+    "text": "How It Works\n\nThe Weekend Jam: Kickoff & Creation\nOn the weekend of March 21–22, cross‑disciplinary teams of dancers and programmers come together to select an algorithm and bring it to life through movement.\nEach team chooses an algorithm (either their own or from the list under the Algorithms tab) and begins by getting everyone on the same page: dancers showcase the foundational movement “blocks” of Bulgarian folk dance, while programmers break down the logic of the chosen algorithm.\nThen comes the creative heart of the jam. Working side‑by‑side, dancers and coders collaborate to map algorithmic logic onto physical space. Teams will explore how each step of an algorithm might translate into rhythm, pattern, and movement. By the end of the weekend, every team will have a draft choreography ready to take into the next stage.\n\n\nRefinement & Rehearsal\nOver the following two weeks, teams meet asynchronously to refine and debug their choreography. Dancers continue developing and polishing the movement; for programmers, participation is optional — though those who want to add a technical flair are encouraged to design animations or graphics to accompany the performance.\nAt the end of this stage, each team submits a final version for consideration in the showcase selection.\n\n\nShowcase Event\nSelected choreographies will be performed live at a closing showcase event, celebrating the creativity and collaboration that brought algorithms to life on the dance floor.",
     "crumbs": [
       "About",
       "Home"
@@ -70,7 +70,7 @@
     "href": "index.html#why-participate",
     "title": "Where Algorithms Meet Artistry",
     "section": "Why Participate?",
-    "text": "Why Participate?\nThe Dance Jam is an immersive experience that breaks down silos between disciplines. Whether you’re a dancer curious about algorithms or this jam is your chance to collaborate, experiment and build something completely unexpected. Break down barriers between disciplines. Go to registration to save your spot!",
+    "text": "Why Participate?\nThe Dance Jam is a chance to break down the walls between disciplines and build something completely unexpected. Whether you’re a dancer curious about algorithms or a programmer who’s never thought about movement, this is your opportunity to collaborate, experiment, and create. Register now to save your spot!",
     "crumbs": [
       "About",
       "Home"
@@ -92,7 +92,7 @@
     "href": "registration.html",
     "title": "How to Register",
     "section": "",
-    "text": "Placeholder for the registration information\nCreate Google form?\nWhat questions should be asked?\nDo we have t-shirts, prizes?\nWill lunch be provided?",
+    "text": "Please fill out the form below. It will require you to sign into your Google account, and may require you to accept all cookies.\n\nLoading…",
     "crumbs": [
       "About",
       "Registration"
@@ -136,7 +136,7 @@
     "href": "showcase.html",
     "title": "Showcase Event",
     "section": "",
-    "text": "Placeholder for the showcase information Add in the dates! Prizes??",
+    "text": "Placeholder for the showcase information Add in the dates!",
     "crumbs": [
       "Event Information",
       "Showcase"

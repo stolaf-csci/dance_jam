@@ -2,15 +2,6 @@
 title: "How to Register"
 ---
 
-Placeholder for the registration information
+Please fill out the form below. It will require you to sign into your Google account, and may require you to accept all cookies.
 
-Create Google form?
-
-What questions should be asked?
-
-Do we have t-shirts, prizes?
-
-Will lunch be provided?
-
-
-![](files/dancejam_poster.png){width=100%}
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeXRDbXv0P_2I3VmBASxpdWIM4OsmVeJD7BlZEXJxXAHkc5Dw/viewform?embedded=true" width="640" height="2300" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
