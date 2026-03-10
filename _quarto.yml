@@ -32,8 +32,6 @@ website:
           text: Refinement
         - href: showcase.qmd
           text: Showcase
-        - href: discord.qmd
-          text: Join the Discord
     - section: "Resources"
       contents:
         - href: dance.qmd
