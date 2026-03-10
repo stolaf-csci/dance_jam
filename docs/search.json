@@ -4,7 +4,7 @@
     "href": "schedule.html",
     "title": "Dance Jam 2026",
     "section": "",
-    "text": "Phase\nWeekday\nDate\nDescription\nDeliverables\nNotes\n\n\n\n\nDance Study Phase\n\nAug – Dec 2025\nPreparation & Research\n\nSelecting dancers to learn the basic movements of the chosen style\n\n\nRegistration Open\nTuesday\n3/10/2026\nRegistration Opens\nFill out the form\n\n\n\nRegistration Close\nFriday\n3/20/2026\nRegistration Closes at 5pm\nLast day to register\n\n\n\nKickoff Weekend\nSaturday\n3/21/2026\nJam Kickoff\n\nIntro & workshops\n\n\n\nSunday\n3/22/2026\nTeam Worktime\nDraft Choreography Submission\nTeams build out a draft choreography\n\n\nRefinement\n\n3/23 - 4/14\nRefinement and Fine Tuning\nFinal Choreography Submission\nFeedback sessions\n\n\nShowcase Event\nFriday\n5/9/2026\nShowcase\n\nCelebration & networking",
+    "text": "Phase\nWeekday\nDate\nDescription\nDeliverables\nNotes\n\n\n\n\nDance Study Phase\n\nAug – Dec 2025\nPreparation & Research\n\nSelecting dancers to learn the basic movements of the chosen style\n\n\nRegistration Open\nTuesday\n3/10/2026\nRegistration Opens\nFill out the form\n\n\n\nRegistration Close\nFriday\n3/20/2026\nRegistration Closes at 5pm\nLast day to register\n\n\n\nKickoff Weekend\nSaturday\n3/21/2026\nJam Kickoff\n\nIntro & workshops\n\n\n\nSunday\n3/22/2026\nTeam Worktime\nDraft Choreography Submission\nTeams build out a draft choreography\n\n\nRefinement\n\n3/23 - 4/7\nRefinement and Fine Tuning\nFinal Choreography Submission\nFeedback sessions\n\n\nShowcase Event\nFriday\n5/9/2026\nShowcase\n\nCelebration & networking",
     "crumbs": [
       "About",
       "Schedule"
@@ -114,7 +114,7 @@
     "href": "refinement.html",
     "title": "Refinements",
     "section": "",
-    "text": "Placeholder for the how to refine choreography, communicate across teams.",
+    "text": "After the kickoff weekend, teams have until April 7th to refine their choreography.\nOn April 7th, we will come back together to vote on which choreographies will continue on to the next stage.\nThis is also a great time to figure out how various components of the studio space could be used to add flair to the choreography: lights, sounds, projected videos.",
     "crumbs": [
       "Event Information",
       "Refinement"
@@ -145,9 +145,9 @@
   {
     "objectID": "kickoff.html",
     "href": "kickoff.html",
-    "title": "Jam Weekend",
+    "title": "Jam Weekend Agenda",
     "section": "",
-    "text": "Placeholder for the kickoff weekend information",
+    "text": "We’lll meet in CAD lecture hall, and will have use of various studio space within CAD over the weekend.\n\n\n\n\n\n\n\nTime\nActivity\n\n\n\n\nSaturday, March 22\n\n\n\n10:00 – 10:30\nIntroductions, icebreaker, project overview & group formation\n\n\n10:30 – 11:30\nMini-lectures & demo: dance blocks and algorithmic concepts\n\n\n11:30 – 12:00\nBegin brainstorming: mapping dance to algorithms\n\n\n12:00 – 1:00\nLunch\n\n\n1:00 – 3:00\nCollaborative exploration: testing ideas and developing concepts\n\n\nSunday, March 23\n\n\n\n9:30 – 11:00\nDancers: studio rehearsal & movement development\n\n\n10:00 – 12:00\nCS students: programming & algorithm exploration\n\n\n12:00 – 1:00\nLunch\n\n\n1:00 – 3:00\nFull teams reunite: collaborative work, refinement & filming",
     "crumbs": [
       "Event Information",
       "Jam Weekend"

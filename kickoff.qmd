@@ -1,5 +1,19 @@
 ---
-title: "Jam Weekend"
+title: "Jam Weekend Agenda"
 ---
 
-Placeholder for the kickoff weekend information
+We'lll meet in CAD lecture hall, and will have use of various studio space within CAD over the weekend.
+
+| Time | Activity |
+|------|----------|
+| **Saturday, March 22** ||
+| 10:00 – 10:30 | Introductions, icebreaker, project overview & group formation |
+| 10:30 – 11:30 | Mini-lectures & demo: dance blocks and algorithmic concepts |
+| 11:30 – 12:00 | Begin brainstorming: mapping dance to algorithms |
+| 12:00 – 1:00 | Lunch |
+| 1:00 – 3:00 | Collaborative exploration: testing ideas and developing concepts |
+| **Sunday, March 23** ||
+| 9:30 – 11:00 | Dancers: studio rehearsal & movement development |
+| 10:00 – 12:00 | CS students: programming & algorithm exploration |
+| 12:00 – 1:00 | Lunch |
+| 1:00 – 3:00 | Full teams reunite: collaborative work, refinement & filming |
