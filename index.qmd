@@ -3,14 +3,17 @@
 
 # Where Algorithms Meet Artistry
 
-Dancers and coders will team up to create **a choreographed algorithm**.
+Dancers and coders will team up to create a choreographed algorithm.
 
 _“Choreographed what??”_  
 You heard us!
 
-Inspired by the folk‑dance videos produced at Sapientia University in Transylvania (Romania), where traditional Hungarian, Romanian and Saxon folk‑dance styles were used to illustrate sorting algorithms like [bubble‑sort](https://www.youtube.com/watch?v=lyZQPjUT5B4) and [select-sort](https://www.youtube.com/watch?v=Ns4TPTC8whw). 
+Inspired by the folk‑dance videos produced at Sapientia University in Transylvania (Romania), 
+where traditional Hungarian, Romanian and Saxon folk‑dance styles were used to illustrate sorting algorithms 
+like [bubble‑sort](https://www.youtube.com/watch?v=lyZQPjUT5B4) and [select-sort](https://www.youtube.com/watch?v=Ns4TPTC8whw). 
 
-Our jam invites students to create their own original choregoraphy using traditional Bulgarian dance steps to embody either the structure, logic and/or flow of a chosen algorithm.
+Our jam invites students to create their own original choregoraphy using traditional Bulgarian dance steps 
+to embody either the structure, logic and/or flow of a chosen algorithm.
 
 ![](files/singlerow_header.png){width=100%}
 

@@ -168,12 +168,6 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Showcase</span></a>
   </div>
 </li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./discord.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Join the Discord</span></a>
-  </div>
-</li>
       </ul>
   </li>
         <li class="sidebar-item sidebar-item-section">
@@ -315,7 +309,7 @@ The aim of an algorithm is to get a reliable method for doing a particular task.
 </section>
 <section id="generating-algorithms" class="level3">
 <h3 class="anchored" data-anchor-id="generating-algorithms">Generating algorithms</h3>
-<p>These are used with information stored in a line or sequence (often text) where the order matters. Sequence generators predict the next item in a series based on previous items. This is widely used in text prediction, music composition, and procedural generation of content.</p>
+<p>These are used with information stored in a line or <strong>sequence</strong> (often text) where the order matters. Sequence generators predict the next item in a series based on previous items. This is widely used in text prediction, music composition, and procedural generation of content.</p>
 <section id="generating-examples" class="level4">
 <h4 class="anchored" data-anchor-id="generating-examples">Generating Examples</h4>
 <ul>
@@ -397,43 +391,42 @@ Note
 </thead>
 <tbody>
 <tr class="odd">
-<td>A</td>
-<td>B (70%), BA (30%)</td>
+<td><code>A</code></td>
+<td><code>B</code> (70%), <code>BA</code> (30%)</td>
 </tr>
 <tr class="even">
-<td>B</td>
-<td>A (50%), BA (50%)</td>
+<td><code>B</code></td>
+<td><code>A</code> (50%), <code>BA</code> (50%)</td>
 </tr>
 <tr class="odd">
-<td>BA</td>
-<td>A (100%)</td>
+<td><code>BA</code></td>
+<td><code>A</code> (100%)</td>
 </tr>
 </tbody>
 </table>
 <p><strong>Example Sequence Generation:</strong></p>
 <ul>
-<li>Start with A.<br>
+<li>Start with <code>A</code>.<br>
 </li>
 <li>Randomly pick the next move according to probabilities:<br>
 </li>
-<li>70% chance → B<br>
-</li>
-<li>30% chance → BA<br>
+<li>70% chance → <code>B</code></li>
+<li>30% chance → <code>BA</code><br>
 </li>
 <li>Repeat</li>
 </ul>
-<p>A possible sequence generated could be something like: <code>A → B → BA → A → B → A → BA' or</code>ABBAABABA`. Between each arrow you can also decide to add in some transition steps. There are many ways to take this process to generate specific styles of dance.</p>
+<p>A possible sequence generated could be something like: <code>A → B → BA → A → B → A → BA</code> or <code>ABBAABABA</code>. Between each arrow you can also decide to add in some transition steps. There are many ways to take this process to generate specific styles of dance.</p>
 <section id="building-blocks" class="level3">
 <h3 class="anchored" data-anchor-id="building-blocks">Building Blocks</h3>
-<p>To configure these to a particular style, you can decide what building blocks constitute a move. For example, you might include simple blocks like A or B, or more complex subsequences such as AB or BAF. Each block can represent a step, a pose, or a short combination of movements.</p>
+<p>To configure these to a particular style, you can decide what building blocks constitute a move. For example, you might include simple blocks like <code>A</code> or <code>B</code>, or more complex subsequences such as <code>AB</code> or <code>BAF</code>. Each block can represent a step, a pose, or a short combination of movements.</p>
 </section>
 <section id="likelihoods" class="level3">
 <h3 class="anchored" data-anchor-id="likelihoods">Likelihoods</h3>
 <p>You can also define how likely it is to move from one subsequence to another by adjusting the probabilities. For example:</p>
 <ul>
-<li>From A you might have a 70% chance to go to B and a 30% chance to go to AB.<br>
+<li>From <code>A</code> you might have a 70% chance to go to <code>B</code> and a 30% chance to go to <code>AB</code>.<br>
 </li>
-<li>From B, you might allow a 50% chance to repeat B or a 50% chance to go to BA.</li>
+<li>From <code>B</code>, you might allow a 50% chance to repeat <code>B</code> or a 50% chance to go to <code>BA</code>.</li>
 </ul>
 </section>
 <section id="the-juice-what-we-call-style" class="level3">

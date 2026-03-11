@@ -23,7 +23,7 @@ Questions about algorithms
 
 ::: {.column width="30%"}
 ![](files/kim_icon.jpg){width=256px}
-**Prof. Kim Mnadery** (she/her) <br>
+**Prof. Kim Mandery** (she/her) <br>
 Department of Computer Science  <br>
 *email* <br>
 Questions about algorithms, registration, website content

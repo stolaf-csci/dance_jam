@@ -3,9 +3,12 @@
 
 # Bulgarian Kopanitsa
 
-The **Kopanitsa** is one of the most energetic and technically demanding folk dances from the Shop (Shope) region of western Bulgaria. Its name is derived from the Bulgarian word *kopanye*, which means "**digging**," reflecting the sharp, downward-driving footwork that mimics the rhythmic striking of the earth.
+The **Kopanitsa** is one of the most energetic and technically demanding folk dances from the 
+Shop (Shope) region of western Bulgaria. Its name is derived from the Bulgarian word `kopanye`, 
+which means "digging," reflecting the sharp, downward-driving footwork that mimics the rhythmic striking of the earth.
 
-What truly sets the Kopanitsa apart is its complex **asymmetrical meter** as it is typically performed in **11/16 time**. This rhythm is subdivided into five beats:
+What truly sets the Kopanitsa apart is its complex asymmetrical meter as it is typically performed 
+in **11/16 time**. This rhythm is subdivided into five beats:
 `quick–quick–slow–quick–quick` or  `2 + 2 + 3 + 2 + 2`.
 
 ![](https://socalfolkdance.org/images/bulgarian_horo_dancers.jpg){ width=100% }
@@ -19,15 +22,18 @@ What truly sets the Kopanitsa apart is its complex **asymmetrical meter** as it 
   Characterized by intricate "knitting" steps, high knee lifts, and sudden squats.
 
 - **The Vibe:**  
-  A display of strength and agility. While traditionally emphasizing masculine prowess, it is now performed by all genders and often reaches a frenetic pace as the music accelerates.
+  A display of strength and agility. While traditionally emphasizing masculine prowess, 
+  it is now performed by all genders and often reaches a frenetic pace as the music accelerates.
 
 ---
 
 ## Rhythm and Musical Structure
 
-The Kopanitsa is played in an **11/16 time signature**. Because the middle beat is slightly longer than the others, it can feel like a **lopsided heartbeat**.
+The Kopanitsa is played in an **11/16 time signature**. Because the middle beat is 
+slightly longer than the others, it can feel like a lopsided heartbeat.
 
-Dancers think of it as **five counts**, giving the *third* count extra weight. As we saw before, this can be written like
+Dancers think of it as five counts, giving the **third** count extra weight. 
+As we saw before, this can be written like
 `1 – 2 – [3] – 4 – 5` or `short – short – LONG – short – short`
 
 
@@ -35,23 +41,32 @@ Dancers think of it as **five counts**, giving the *third* count extra weight. A
 
 ## Historical and Social Context
 
-Kopanitsa is a **social dance** performed today at weddings, festivals, and on large international stages. Historically, it is more than just a dance—it is a vital expression of national identity and the rebellious spirit of the Bulgarian people, particularly the Shopi highlanders.
+Kopanitsa is a *social dance* performed today at weddings, festivals, and on large international stages. 
+Historically, it is more than just a dance—it is a vital expression of national identity and the 
+rebellious spirit of the Bulgarian people, particularly the Shopi highlanders.
 
-During the long period of Ottoman rule (1396–1878), when many forms of cultural expression were restricted, communal dances in the village square became a "censorship-free" space where Bulgarians could maintain their language, faith, and unity. Socially, the dance served as the heartbeat of village life, performed at Sunday gatherings (*horo*), weddings, and festivals.
+During the long period of Ottoman rule (1396–1878), when many forms of cultural expression were restricted, 
+communal dances in the village square became a "censorship-free" space where Bulgarians could maintain their language, faith, and unity. Socially, the dance served as the heartbeat of village life, performed at Sunday gatherings (*horo*), weddings, and festivals.
 
-Because Kopanitsa is a **“called” dance** (where a leader shouts out changes), it historically served as a test of community coordination and personal stamina. In the rugged Shopluk region, the aggressive "digging" steps and accelerating tempo became a way to display humor, resilience, and masculine prowess. While it was traditionally often gender-segregated, today it is a **unifying force**, bringing people of all ages together in a single fast-moving line.
+Because Kopanitsa is a *“called” dance* (where a leader shouts out changes), it historically served as 
+a test of community coordination and personal stamina. In the rugged Shopluk region, the aggressive "digging" 
+steps and accelerating tempo became a way to display humor, resilience, and masculine prowess. While it was 
+traditionally often gender-segregated, today it is a **unifying force**, bringing people of all ages together 
+in a single fast-moving line.
 
 ![](files/singlerow_header.png){width=100%}
 
 ## Floor Patterns
 
-Kopanitsa is traditionally danced in a **long line** of dancers connected by a belt hold, with each dancer holding the belts of the dancers on either side. This creates a strong sense of **community and cohesion**.
+Kopanitsa is traditionally danced in a **long line** of dancers connected by a belt hold, 
+with each dancer holding the belts of the dancers on either side. This creates a strong sense of community and cohesion.
 
-- The dance progresses **to the right**, with rightward movements traveling slightly more than those moving left.
-- In social settings, dancers form an **open circle** moving around the space.
-- In performance settings, dancers move more freely, creating **lines, circles, or other choreographic figures**.
+- The dance progresses to the right, with rightward movements traveling slightly more than those moving left.
+- In social settings, dancers form an open circle moving around the space.
+- In performance settings, dancers move more freely, creating lines, circles, or other choreographic figures.
 
-Steps can be combined into more complex patterns or sequences, like **Lego pieces** that can be assembled, taken apart, and rebuilt in different ways.
+Steps can be combined into more complex patterns or sequences, like Lego pieces that can be assembled, 
+taken apart, and rebuilt in different ways.
 
 ---
 
@@ -59,9 +74,9 @@ Steps can be combined into more complex patterns or sequences, like **Lego piece
 
 To perform the basic traveling step:
 
-- Keep your knees **bouncy**
-- Keep your weight on the **balls of your feet**
-- Dance *down into the floor* with the body held **tall and upright**
+- Keep your knees bouncy
+- Keep your weight on the balls of your feet
+- Dance *down into the floor* with the body held tall and upright
 
 ### Step Breakdown
 
@@ -81,20 +96,20 @@ To perform the basic traveling step:
 
 - **Posture**: Keep your upper body tall and proud while your legs do the heavy lifting.
 
-- **Speed**: Start slow. Traditionally, the music begins at a manageable pace and ends in a **blur of feet**.
+- **Speed**: Start slow. Traditionally, the music begins at a manageable pace and ends in a blur of feet.
 :::
 
 ![](files/singlerow_header.png){width=100%}
 
 ### Building Blocks
 
-Information on the building blocks of this Bulgarian dance style.
+Information on the building blocks of this Bulgarian dance style will be built upon during Kickoff Day 1.
 
 
 ### Ideas for translating to code
 
-Rhythm is non-negotiable, due to the various step components. Explain this.
+Rhythm is non-negotiable, due to the various step components. 
 
-What can we manipulate? And by how much? 
+Things to keep in mind: what can we manipulate? And by how much? 
 
 ![](files/tworow_header.png){width=100%}
