@@ -69,7 +69,7 @@ These are used with information stored in a line or **sequence** (often text) wh
 Let's take a peek at the Bubble Sort algorithm. Bubble Sort is a simple algorithm that repeatedly steps through a list, compares adjacent items, and swaps them if they are in the wrong order. 
 Think of each comparison as a “dance move” and each swap as changing of positions of the dancers in the choreography.
 
-![manim video of bubble sort](files/BubbleSort.mp4)  
+![Prof Kim's animation for Bubble Sort that she can teach you how to make using the manim Python library](files/BubbleSort.mp4)  
 
 The algorithm starts at the beginning and checks each bar with it's neighbor by outlining in orange. 
 If the bars are not in the correct order, the bars swap spots. 
