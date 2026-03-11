@@ -3,7 +3,7 @@
 ![](files/tworow_header.png){width=100%}
 
 ## What Even is an Algorithm?
-An **algorithm** is just a **set of clear instructions** that tell you how to accomplish a particular task. If you've ever followed a recipe or built IKEA furniture, you've used an algorithm before!
+An **algorithm** is just a <u>set of clear instructions</u> that tell you how to accomplish a particular task. If you've ever followed a recipe or built IKEA furniture, you've used an algorithm before!
 
 Some algorithms are very simple, moving step by step in a straight line. Others are a bit more complex, looping or branching like twists and turns in a dance. The key is that they always have a purpose and a goal.
 
