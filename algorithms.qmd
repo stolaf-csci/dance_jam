@@ -59,7 +59,7 @@ These are used with information stored in a line or **sequence** (often text) wh
 
 #### Generating Examples  
   - [Markov Chains](https://en.wikipedia.org/wiki/Markov_chain) – generates sequences where the next item depends only on the current item or state. Great for generating new dance moves, music notes, or text sequences.  
-  - [N-grams](https://en.wikipedia.org/wiki/N-gram) – looks at sequences of n items to predict the next item, capturing patterns from previous n-1 steps. Useful for generating coherent sequences in text, music, or choreography.  
+  - [N-grams](https://en.wikipedia.org/wiki/N-gram) – looks at sequences of n items to predict the next item, capturing patterns from previous n-1 steps. Useful for generating coherent sequences in text, music, or ...choreography?  
   - [de Bruijn sequences](https://en.wikipedia.org/wiki/De_Bruijn_sequence) – generates sequences that cover all possible combinations of a set of elements exactly once. Useful in puzzles, coding theory, and sequence testing.
 
 ![](files/singlerow_header.png){width=100%}
