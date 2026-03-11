@@ -12,6 +12,10 @@ website:
     logo: "files/128_icon.png"
     pinned: true
     align: center
+    tools:
+      - icon: github
+        href: "https://github.com/stolaf-csci/dance_jam"
+        text: Github
     style: docked
     contents:
     - section: "About"
