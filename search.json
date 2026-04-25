@@ -11,6 +11,28 @@
     ]
   },
   {
+    "objectID": "index.html#how-it-works",
+    "href": "index.html#how-it-works",
+    "title": "Where Algorithms Meet Artistry",
+    "section": "How It Works",
+    "text": "How It Works\n\nThe Weekend Jam: Kickoff & Creation\nOn the weekend of March 21–22, cross‑disciplinary teams of dancers and programmers come together to select an algorithm and bring it to life through movement.\nEach team chooses an algorithm (either their own or from the list under the Algorithms tab) and begins by getting everyone on the same page: dancers showcase the foundational movement “blocks” of Bulgarian folk dance, while programmers break down the logic of the chosen algorithm.\nThen comes the creative heart of the jam. Working side‑by‑side, dancers and coders collaborate to map algorithmic logic onto physical space. Teams will explore how each step of an algorithm might translate into rhythm, pattern, and movement. By the end of the weekend, every team will have a draft choreography ready to take into the next stage.\n\n\nRefinement & Rehearsal\nOver the following two weeks, teams meet asynchronously to refine and debug their choreography. Dancers continue developing and polishing the movement; for programmers, participation is optional — though those who want to add a technical flair are encouraged to design animations or graphics to accompany the performance.\nAt the end of this stage, each team submits a final version for consideration in the showcase selection.\n\n\nShowcase Event\nSelected choreographies will be performed live at a closing showcase event, celebrating the creativity and collaboration that brought algorithms to life on the dance floor.",
+    "crumbs": [
+      "About",
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#why-participate",
+    "href": "index.html#why-participate",
+    "title": "Where Algorithms Meet Artistry",
+    "section": "Why Participate?",
+    "text": "Why Participate?\nThe Dance Jam is a chance to break down the walls between disciplines and build something completely unexpected. Whether you’re a dancer curious about algorithms or a programmer who’s never thought about movement, this is your opportunity to collaborate, experiment, and create. Register now to save your spot!",
+    "crumbs": [
+      "About",
+      "Home"
+    ]
+  },
+  {
     "objectID": "dance.html#key-features-of-the-dance",
     "href": "dance.html#key-features-of-the-dance",
     "title": "Bulgarian Kopanitsa",
@@ -66,6 +88,28 @@
     ]
   },
   {
+    "objectID": "showcase.html",
+    "href": "showcase.html",
+    "title": "Showcase Event",
+    "section": "",
+    "text": "Placeholder for the showcase information\n\n\nVideo\nMarkov animation",
+    "crumbs": [
+      "Event Information",
+      "Showcase"
+    ]
+  },
+  {
+    "objectID": "kickoff.html",
+    "href": "kickoff.html",
+    "title": "Jam Weekend Agenda",
+    "section": "",
+    "text": "We’lll meet in CAD lecture hall, and will have use of various studio space within CAD over the weekend.\n\n\n\n\n\n\n\nTime\nActivity\n\n\n\n\nSaturday, March 22\n\n\n\n10:00 – 10:30\nIntroductions, icebreaker, project overview & group formation\n\n\n10:30 – 11:30\nMini-lectures & demo: dance blocks and algorithmic concepts\n\n\n11:30 – 12:00\nBegin brainstorming: mapping dance to algorithms\n\n\n12:00 – 1:00\nLunch\n\n\n1:00 – 3:00\nCollaborative exploration: testing ideas and developing concepts\n\n\nSunday, March 23\n\n\n\n9:30 – 11:00\nDancers: studio rehearsal & movement development\n\n\n10:00 – 12:00\nCS students: programming & algorithm exploration\n\n\n12:00 – 1:00\nLunch\n\n\n1:00 – 3:00\nFull teams reunite: collaborative work, refinement & filming",
+    "crumbs": [
+      "Event Information",
+      "Jam Weekend"
+    ]
+  },
+  {
     "objectID": "registration.html",
     "href": "registration.html",
     "title": "How to Register",
@@ -74,50 +118,6 @@
     "crumbs": [
       "About",
       "Registration"
-    ]
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Dance Jam 2026",
-    "section": "",
-    "text": "This event is proudly hosted by the following faculty members:\nArtwork from the Bulgarian Folk Encaustic Paintings collection of Flame Art Studios",
-    "crumbs": [
-      "About",
-      "People"
-    ]
-  },
-  {
-    "objectID": "contact.html#questions",
-    "href": "contact.html#questions",
-    "title": "Dance Jam 2026",
-    "section": "Questions?",
-    "text": "Questions?\nFeel free to reach out to the hosts with any questions related to:\n\nHow to get started with the Dance Jam\n\nTechnical or coding challenges during the weekend events\n\nIdeas and collaboration tips\n\nScheduling and event logistics\n\nResources for both computer science and dance disciplines\n\nAny other questions or concerns you have!\n\nWe’re here to support your creativity and collaboration every step of the way.",
-    "crumbs": [
-      "About",
-      "People"
-    ]
-  },
-  {
-    "objectID": "index.html#how-it-works",
-    "href": "index.html#how-it-works",
-    "title": "Where Algorithms Meet Artistry",
-    "section": "How It Works",
-    "text": "How It Works\n\nThe Weekend Jam: Kickoff & Creation\nOn the weekend of March 21–22, cross‑disciplinary teams of dancers and programmers come together to select an algorithm and bring it to life through movement.\nEach team chooses an algorithm (either their own or from the list under the Algorithms tab) and begins by getting everyone on the same page: dancers showcase the foundational movement “blocks” of Bulgarian folk dance, while programmers break down the logic of the chosen algorithm.\nThen comes the creative heart of the jam. Working side‑by‑side, dancers and coders collaborate to map algorithmic logic onto physical space. Teams will explore how each step of an algorithm might translate into rhythm, pattern, and movement. By the end of the weekend, every team will have a draft choreography ready to take into the next stage.\n\n\nRefinement & Rehearsal\nOver the following two weeks, teams meet asynchronously to refine and debug their choreography. Dancers continue developing and polishing the movement; for programmers, participation is optional — though those who want to add a technical flair are encouraged to design animations or graphics to accompany the performance.\nAt the end of this stage, each team submits a final version for consideration in the showcase selection.\n\n\nShowcase Event\nSelected choreographies will be performed live at a closing showcase event, celebrating the creativity and collaboration that brought algorithms to life on the dance floor.",
-    "crumbs": [
-      "About",
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#why-participate",
-    "href": "index.html#why-participate",
-    "title": "Where Algorithms Meet Artistry",
-    "section": "Why Participate?",
-    "text": "Why Participate?\nThe Dance Jam is a chance to break down the walls between disciplines and build something completely unexpected. Whether you’re a dancer curious about algorithms or a programmer who’s never thought about movement, this is your opportunity to collaborate, experiment, and create. Register now to save your spot!",
-    "crumbs": [
-      "About",
-      "Home"
     ]
   },
   {
@@ -132,14 +132,14 @@
     ]
   },
   {
-    "objectID": "kickoff.html",
-    "href": "kickoff.html",
-    "title": "Jam Weekend Agenda",
+    "objectID": "inspiration.html",
+    "href": "inspiration.html",
+    "title": "Dance Jam 2026",
     "section": "",
-    "text": "We’lll meet in CAD lecture hall, and will have use of various studio space within CAD over the weekend.\n\n\n\n\n\n\n\nTime\nActivity\n\n\n\n\nSaturday, March 22\n\n\n\n10:00 – 10:30\nIntroductions, icebreaker, project overview & group formation\n\n\n10:30 – 11:30\nMini-lectures & demo: dance blocks and algorithmic concepts\n\n\n11:30 – 12:00\nBegin brainstorming: mapping dance to algorithms\n\n\n12:00 – 1:00\nLunch\n\n\n1:00 – 3:00\nCollaborative exploration: testing ideas and developing concepts\n\n\nSunday, March 23\n\n\n\n9:30 – 11:00\nDancers: studio rehearsal & movement development\n\n\n10:00 – 12:00\nCS students: programming & algorithm exploration\n\n\n12:00 – 1:00\nLunch\n\n\n1:00 – 3:00\nFull teams reunite: collaborative work, refinement & filming",
+    "text": "Synchronous Objects contains examples of using technology to add context to a choreography. The Dance Interface (Object 1) and Cue Annotations (Object 3) examples can provide inspiration for the animations.\nWill be adding additional sources, but welcome to submissions!",
     "crumbs": [
-      "Event Information",
-      "Jam Weekend"
+      "Resources",
+      "Inspiration"
     ]
   },
   {
@@ -187,25 +187,25 @@
     ]
   },
   {
-    "objectID": "showcase.html",
-    "href": "showcase.html",
-    "title": "Showcase Event",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Dance Jam 2026",
     "section": "",
-    "text": "Placeholder for the showcase information",
+    "text": "This event is proudly hosted by the following faculty members:\nArtwork from the Bulgarian Folk Encaustic Paintings collection of Flame Art Studios",
     "crumbs": [
-      "Event Information",
-      "Showcase"
+      "About",
+      "People"
     ]
   },
   {
-    "objectID": "inspiration.html",
-    "href": "inspiration.html",
+    "objectID": "contact.html#questions",
+    "href": "contact.html#questions",
     "title": "Dance Jam 2026",
-    "section": "",
-    "text": "Synchronous Objects contains examples of using technology to add context to a choreography. The Dance Interface (Object 1) and Cue Annotations (Object 3) examples can provide inspiration for the animations.\nWill be adding additional sources, but welcome to submissions!",
+    "section": "Questions?",
+    "text": "Questions?\nFeel free to reach out to the hosts with any questions related to:\n\nHow to get started with the Dance Jam\n\nTechnical or coding challenges during the weekend events\n\nIdeas and collaboration tips\n\nScheduling and event logistics\n\nResources for both computer science and dance disciplines\n\nAny other questions or concerns you have!\n\nWe’re here to support your creativity and collaboration every step of the way.",
     "crumbs": [
-      "Resources",
-      "Inspiration"
+      "About",
+      "People"
     ]
   }
 ]
