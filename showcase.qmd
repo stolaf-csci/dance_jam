@@ -4,3 +4,5 @@ title: "Showcase Event"
 
 Placeholder for the showcase information
 
+
+![Markov animation](files/DanceAnimation.mp4)  
