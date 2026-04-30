@@ -2,7 +2,7 @@
 title: "Showcase Event"
 ---
 
-Placeholder for the showcase information
+Animation of choreography from a birds-eye view.
 
 
-![Markov animation](files/DanceAnimation.mp4)  
+![Markov animation](files/final_highquality.mp4)  
